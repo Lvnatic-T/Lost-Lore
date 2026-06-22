@@ -10,14 +10,17 @@
       "height": 45,
       "weight": 3155,
       "catchRate": 1,
-      "baseScale": 1.11,
+      "baseScale": 1.5,
+      "hitbox": {
+        "width": 1.55,
+        "height": 3.25,
+        "fixed": false
+      },
       "eggCycles": 120,
       "baseFriendship": 10,
       "baseExperienceYield": 600,
       "experienceGroup": "fluctuating",
-      "pokedex": [
-        "cobblemon.species.tyranitar-black.desc"
-      ],
+      "pokedex": ["cobblemon.species.tyranitar-black.desc"],
       "labels": [
         "gen2",
         "black",
@@ -186,11 +189,7 @@
         },
         "seats": [
           {
-            "offset": {
-              "x": 0.0,
-              "y": 0.0,
-              "z": 0.0
-            }
+            "locator": "seat_1"
           }
         ]
       }

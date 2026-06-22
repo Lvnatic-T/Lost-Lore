@@ -4,17 +4,23 @@
   "variations": [
     {
       "aspects": ["black"],
-      "poser": "cobblemon:blacktyranitar",
-      "model": "cobblemon:black_tyranitar.geo",
-      "texture": "cobblemon:textures/pokemon/0248_tyranitar/tyranitar_black.png",
-      "layers": []
+      "model": "cobblemon:tyranitar_black.geo",
+      "poser": "cobblemon:tyranitar_black",
+      "texture": "cobblemon:textures/pokemon/0248_tyranitar/tyranitar_black.png"
     },
     {
-      "aspects": [
-		"shiny",
-		"black"
-	  ],
+      "aspects": ["black", "shiny"],
       "texture": "cobblemon:textures/pokemon/0248_tyranitar/tyranitar_black_shiny.png"
+    },
+    {
+      "aspects": ["black", "alpha_eyes"],
+      "layers": [
+        {
+          "name": "alpha_eyes",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0248_tyranitar/tyranitar_black_alpha.png"
+        }
+      ]
     }
   ]
 }

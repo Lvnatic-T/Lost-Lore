@@ -1,0 +1,71 @@
+{
+  "portraitScale": 1.37,
+  "portraitTranslation": [-0.09, 2.82, 0],
+  "profileScale": 0.42,
+  "profileTranslation": [0, 1.12, 0],
+  "rootBone":"tyranitar",
+  "animations": {
+    "cry": "q.bedrock_stateful('tyranitar_black', 'cry')",
+    "recoil": "q.bedrock_stateful('tyranitar_black', 'recoil')",
+    "status": "q.bedrock_primary('tyranitar_black', 'status', q.curve('symmetrical_wide'))",
+    "special": "q.bedrock_primary('tyranitar_black', 'special', q.curve('symmetrical_wide'))",
+    "physical": "q.bedrock_primary('tyranitar_black', 'physical', q.curve('symmetrical_wide'))"
+  },
+  "poses": {
+    "portrait": {
+      "poseTypes": ["PORTRAIT"],
+      "animations": ["q.bedrock('tyranitar_black', 'ground_idle')"],
+      "quirks": ["q.bedrock_quirk('tyranitar_black', 'blink', 2, 5, 1)"]
+    },
+    "profile": {
+      "poseTypes": ["PROFILE"],
+      "animations": ["q.bedrock('tyranitar_black', 'battle_idle')"],
+      "quirks": ["q.bedrock_quirk('tyranitar_black', 'blink', 2, 5, 1)"]
+    },
+    "battle-standing": {
+      "poseTypes": ["STAND"],
+      "isBattle": true,
+      "animations": [
+        "q.look('head', 1, 1, 0, -45, 0, 0)",
+        "q.look('neck2', 1, 1, 5, -5, 11, -11)",
+        "q.look('neck', 1, 1, 9, -5, 17, -17)",
+        "q.look('torso', 1, 1, 5, -5, 0, 0)",
+        "q.bedrock('tyranitar_black', 'ground_idle')"
+      ],
+      "quirks": ["q.bedrock_quirk('tyranitar_black', 'blink', 2, 5, 1)"]
+    },
+    "standing": {
+      "poseTypes": ["STAND", "NONE", "FLOAT"],
+      "isBattle": false,
+      "animations": [
+        "q.look('head', 1, 1, 0, -45, 0, 0)",
+        "q.look('neck2', 1, 1, 5, -5, 11, -11)",
+        "q.look('neck', 1, 1, 9, -5, 17, -17)",
+        "q.look('torso', 1, 1, 5, -5, 0, 0)",
+        "q.bedrock('tyranitar_black', 'ground_idle')"
+      ],
+      "quirks": ["q.bedrock_quirk('tyranitar_black', 'blink', 2, 5, 1)"]
+    },
+    "walking": {
+      "poseTypes":["WALK", "SWIM"],
+      "animations": [
+        "q.look('head', 1, 1, 0, -45, 0, 0)",
+        "q.look('neck2', 1, 1, 5, -5, 11, -11)",
+        "q.look('neck', 1, 1, 9, -5, 17, -17)",
+        "q.look('torso', 1, 1, 5, -5, 0, 0)",
+        "q.bedrock('tyranitar_black', 'ground_walk')"
+      ],
+      "quirks": ["q.bedrock_quirk('tyranitar_black', 'blink', 2, 5, 1)"]
+    },
+    "battle-sleeping": {
+      "poseTypes": ["SLEEP"],
+      "isBattle": true,
+      "animations": ["q.bedrock('tyranitar_black', 'battle_sleep')"]
+    },
+    "sleeping": {
+      "poseTypes": ["SLEEP"],
+      "isBattle": false,
+      "animations": ["q.bedrock('tyranitar_black', 'sleep')"]
+    }
+  }
+}

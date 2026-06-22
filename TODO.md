@@ -3,10 +3,9 @@
 - ~~Ask Beezy for permission to use the Pokopia models~~
 - Wait for an answer I guess
 ## General
-- ~~Do the Gmax Clone Starters~~
-- ~~Add cosmetic gmax support for Gmax Venusaur & Blastoise~~
 - Add new Shadow/Armored Mewtwo models
 - Maybe fix the look quirk on Mewtwo to not turn the hip that much idk
+- Start working on Porygon Zero
 ## For 1.8
 - Update Black Tyranitar to new model
 - Check if Crystal Steelix needs update
