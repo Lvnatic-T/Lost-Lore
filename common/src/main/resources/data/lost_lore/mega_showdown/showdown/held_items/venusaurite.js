@@ -1,18 +1,15 @@
-{
-  name: "Venusaurite",
-  spritenum: 586,
-  megaStone: "Venusaur-Mega",
-  megaEvolves: ["Venusaur", "Venusaur-Clone"],
-  itemUser: ["Venusaur"],
-  onTakeItem(item, source) {
-    const name = source.species.name;
-    const base = source.baseSpecies.baseSpecies;
-    if (name === base) return false;
-    if (item.megaEvolves?.includes(name)) return false;
-    if (item.megaStone === name) return false;
-    return true;
-  },
-  num: 678,
-  gen: 6,
-  isNonstandard: "Past",
-}
+({
+    name: "Venusaurite",
+    spritenum: 586,
+    megaStone: {
+        "Venusaur": "Venusaur-Mega",
+        "Venusaur-Clone": "Venusaur-Clone-Mega"
+    },
+    itemUser: ["Venusaur", "Venusaur-Clone"],
+    onTakeItem(item, source) {
+        return !item.megaStone?.[source.baseSpecies.baseSpecies];
+    },
+    num: 678,
+    gen: 6,
+    isNonstandard: "Past",
+})

@@ -1,18 +1,15 @@
-{
-  name: "Charizardite X",
-  spritenum: 585,
-  megaStone: "Charizard-Mega-X",
-  megaEvolves: ["Charizard", "Charizard-Clone"],
-  itemUser: ["Charizard"],
-  onTakeItem(item, source) {
-    const name = source.species.name;
-    const base = source.baseSpecies.baseSpecies;
-    if (name === base) return false;
-    if (item.megaEvolves?.includes(name)) return false;
-    if (item.megaStone === name) return false;
-    return true;
-  },
-  num: 660,
-  gen: 6,
-  isNonstandard: "Past",
-}
+({
+    name: "Charizardite X",
+    spritenum: 585,
+    megaStone: {
+        "Charizard": "Charizard-Mega-X",
+        "Charizard-Clone": "Charizard-Clone-Mega-X"
+    },
+    itemUser: ["Charizard", "Charizard-Clone"],
+    onTakeItem(item, source) {
+        return !item.megaStone?.[source.baseSpecies.baseSpecies];
+    },
+    num: 660,
+    gen: 6,
+    isNonstandard: "Past",
+})
