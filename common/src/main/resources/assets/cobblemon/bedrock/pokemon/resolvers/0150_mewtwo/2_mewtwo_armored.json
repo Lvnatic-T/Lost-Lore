@@ -10,9 +10,7 @@
       "layers": [
         {
           "name": "emissive",
-          "emissive": true,
-          "translucent": true,
-          "texture": "cobblemon:textures/pokemon/0150_mewtwo/mewtwo_emissive.png"
+          "texture": "cobblemon:textures/pokemon/blank.png"
         }
       ]
     },
@@ -22,9 +20,7 @@
       "layers": [
         {
           "name": "emissive",
-          "emissive": true,
-          "translucent": true,
-          "texture": "cobblemon:textures/pokemon/0150_mewtwo/mewtwo_emissive.png"
+          "texture": "cobblemon:textures/pokemon/blank.png"
         }
       ]
     }
