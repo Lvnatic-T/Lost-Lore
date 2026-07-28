@@ -184,6 +184,13 @@
 
   "cobblemon.ui.pokedex.info.form.slowbro-megay": "Galar-Mega",
 
+  "cobblemon.ui.pokedex.info.form.revavroom-caph": "Caph",
+  "cobblemon.ui.pokedex.info.form.revavroom-schedar": "Schedir",
+  "cobblemon.ui.pokedex.info.form.revavroom-ruchbah": "Rukbat",
+  "cobblemon.ui.pokedex.info.form.revavroom-navi": "Tsih",
+  "cobblemon.ui.pokedex.info.form.revavroom-segin": "Segin",
+  "cobblemon.ui.pokedex.info.form.revavroom": "",
+
 
   "cobblemon.species.mimikyu-acerola.desc": "Dieses Mimigma, liebevoll Mimilein genannt, soll in den Ruinen des Thrifty Megamart erwacht sein, angezogen von Acerolas Gegenwart. Im Gegensatz zu anderen seiner Art zeigt es selten Aggressionen, sondern klammert sich stattdessen wie ein beschützender Schatten an sie. Einige behaupten, es verstecke sich nicht mehr aus Neid, sondern aus Ehrfurcht und verbirgt einen Geist, der Acerola einst zu Lebzeiten kannte.",
   "cobblemon.species.mimikyu-busted-acerola.desc": "Nachdem seine Verkleidung beschädigt wurde, offenbart Mimilein etwas, das weit älter und kälter ist als Stoff. Wenn es sichtbar wird, lässt seine Anwesenheit die Luft erkalten und bringt die Pokémon in der Nähe zum Schweigen. Manche sagen, dass Acerola seine Schreie noch immer verstehen kann, was auf eine Verbindung hindeutet, die nicht im Leben, sondern im Tod entstanden ist.",
@@ -246,6 +253,12 @@
   "cobblemon.species.mewtwo-shadow.desc": "Ein mächtiges Mewtu, das durch Krypto-Energie korrumpiert wurde. Es verfügt über überwältigende psychische Kräfte, die es durch einen dunklen Kristall ausübt, und kämpft mit unerbittlicher Aggression und instabiler Kraft.",
 
   "cobblemon.species.pichu-spikyeared.desc":"Dieses seltene Pichu soll mit Celebi durch die Zeit gereist sein. Im Gegensatz zu anderen seiner Art kann es sich nicht weiterentwickeln, da es an eine längst vergangene Ära gebunden ist. Sein stacheliges Ohr ist ein Zeichen dieser Reise – ein Echo einer Welt, die einmal war.",
+
+  "cobblemon.species.revavroom-caph.desc": "Durch die Umbauten der Kampf-Crew im Rahmen der Operation Star wurde sein Fahrgestell weit über gewöhnliche Grenzen hinaus verstärkt. Hat es erst einmal Fahrt aufgenommen, kann ihm kaum etwas standhalten.",
+  "cobblemon.species.revavroom-schedar.desc": "Dieses Pokémon wurde im Rahmen der Operation Star von der Feuer-Crew von Team Star umgebaut. Die enorme Hitze seines Motors lässt Straßen innerhalb weniger Augenblicke schmelzen.",
+  "cobblemon.species.revavroom-ruchbah.desc": "Die Feen-Crew von Team Star verzierte dieses Pokémon mit Altmetall und schillernden Schmuckstücken. Sein funkelndes Äußeres soll Gegner ablenken, bevor es angreift.",
+  "cobblemon.species.revavroom-navi.desc": "Dieses Pokémon wurde von der Gift-Crew von Team Star erschaffen und stößt überall, wo es unterwegs ist, giftige Abgase aus. Selbst nachdem es vorbeigefahren ist, bleibt die Luft gefährlich.",
+  "cobblemon.species.revavroom-segin.desc": "Im Rahmen der Operation Star erbaut, gilt es als ganzer Stolz der Unlicht-Crew von Team Star. Dem Dröhnen seines Motors wird nachgesagt, den Kampfgeist naher Pokémon zu entfachen.",
 
   "cobblemon.species.riolu-pmd.desc":"Dieses Riolu zeigt seinen Teamkollegen unerschütterliche Loyalität. Durch seine Aura spürt es Emotionen und kann so Verbündete in Gefahr beschützen. Obwohl es klein ist, wird es von einem ausgeprägten Gerechtigkeitssinn angetrieben, der aus seiner Zeit als Entdecker stammt.",
   "cobblemon.species.riolu-psmd.desc":"Dieses Riolu, das in den Prüfungen mysteriöser Dungeons geschmiedet wurde, nutzt die Emotionen anderer, um gefährliche Missionen zu meistern. Seine starke Bindung zu seinem Partner beflügelt seinen Mut, selbst wenn die Chancen unmöglich erscheinen.",

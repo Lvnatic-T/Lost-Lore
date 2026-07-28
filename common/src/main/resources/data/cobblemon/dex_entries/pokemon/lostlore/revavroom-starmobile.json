@@ -1,0 +1,29 @@
+{
+  "id": "cobblemon:revavroom-starmobile",
+  "speciesId": "cobblemon:revavroom",
+  "displayAspects": [],
+  "conditionAspects": [],
+  "forms": [
+    {
+      "displayForm": "Segin",
+      "unlockForms": ["segin"]
+    },
+    {
+      "displayForm": "Schedar",
+      "unlockForms": ["schedar"]
+    },
+    {
+      "displayForm": "Navi",
+      "unlockForms": ["navi"]
+    },
+    {
+      "displayForm": "Ruchbah",
+      "unlockForms": ["ruchbah"]
+    },
+    {
+      "displayForm": "Caph",
+      "unlockForms": ["caph"]
+    }
+  ],
+  "variations": []
+}

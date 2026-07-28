@@ -1,0 +1,15 @@
+{
+  "type": "choice",
+  "keys": ["starmobile"],
+  "default": "no",
+  "choices": [
+    "no",
+    "segin",
+    "caph",
+    "ruchbah",
+	"schedar",
+    "navi"
+  ],
+  "isAspect": true,
+  "aspectFormat": "{{choice}}-starmobile"
+}

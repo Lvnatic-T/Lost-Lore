@@ -1,0 +1,110 @@
+{
+  "portraitScale": 0.81,
+  "portraitTranslation": [-1.09, 0.41, 0],
+  "profileScale": 0.31,
+  "profileTranslation": [-0.02, 1.22, 0],
+  "rootBone": "revavroom_starmobile",
+  "firstPersonCameraOffset": {
+    "seat_1": [0, 2.45, 0],
+    "seat_2": [0, 2.45, 0],
+    "seat_3": [0, 2.45, 0],
+    "seat_4": [0, 2.45, 0]
+  },
+  "thirdPersonCameraOffset": {
+    "seat_1": [0, 0.5, 1],
+    "seat_1_reverse": [0, 0.5, 1],
+    "seat_2": [0, 0.5, 1],
+    "seat_2_reverse": [0, 0.5, 1],
+    "seat_3": [0, 0.5, 1],
+    "seat_3_reverse": [0, 0.5, 1],
+    "seat_4": [0, 0.5, 1],
+    "seat_4_reverse": [0, 0.5, 1]
+  },
+  "thirdPersonCameraOffsetNoViewBobbing": {
+    "seat_1": [0, 0.5, 1],
+    "seat_1_reverse": [0, 0.5, 1],
+    "seat_2": [0, 0.5, 1],
+    "seat_2_reverse": [0, 0.5, 1],
+    "seat_3": [0, 0.5, 1],
+    "seat_3_reverse": [0, 0.5, 1],
+    "seat_4": [0, 0.5, 1],
+    "seat_4_reverse": [0, 0.5, 1]
+  },
+  "animations": {
+    "cry": "q.bedrock_stateful('revavroom_starmobile', 'cry')"
+  },
+  "poses": {
+    "standing": {
+      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+      "animations": [
+        "q.bedrock('revavroom_starmobile', 'ground_idle')",
+        "q.bedrock('revavroom_starmobile', 'disco_ball')",
+        {
+          "condition": "q.is_ridden",
+          "animation": "q.bedrock('revavroom_starmobile', 'ride_ground')"
+        }
+      ],
+      "quirks": [
+        "q.bedrock_quirk('revavroom_starmobile', 'blink', 2, 5, 1)",
+        "q.bedrock_quirk('revavroom_starmobile', 'blink_right', 2, 5, 1)",
+        "q.bedrock_quirk('revavroom_starmobile', 'blink_left', 2, 5, 1)"
+      ]
+    },
+    "walking": {
+      "poseTypes": ["WALK"],
+      "condition": "!q.in_air && !q.is_sprinting",
+      "animations": [
+        "q.bedrock('revavroom_starmobile', 'ground_walk')",
+        "q.bedrock('revavroom_starmobile', 'disco_ball')",
+        {
+          "condition": "q.is_ridden",
+          "animation": "q.bedrock('revavroom_starmobile', 'ride_ground')"
+        }
+      ],
+      "quirks": [
+        "q.bedrock_quirk('revavroom_starmobile', 'blink', 2, 5, 1)",
+        "q.bedrock_quirk('revavroom_starmobile', 'blink_right', 2, 5, 1)",
+        "q.bedrock_quirk('revavroom_starmobile', 'blink_left', 2, 5, 1)"
+      ]
+    },
+    "running": {
+      "poseTypes": ["WALK"],
+      "condition": "!q.in_air && q.is_sprinting",
+      "animations": [
+        "q.bedrock('revavroom_starmobile', 'ground_run')",
+        "q.bedrock('revavroom_starmobile', 'disco_ball')",
+        {
+          "condition": "q.is_ridden",
+          "animation": "q.bedrock('revavroom_starmobile', 'ride_ground')"
+        }
+      ],
+      "quirks": [
+        "q.bedrock_quirk('revavroom_starmobile', 'blink', 2, 5, 1)",
+        "q.bedrock_quirk('revavroom_starmobile', 'blink_right', 2, 5, 1)",
+        "q.bedrock_quirk('revavroom_starmobile', 'blink_left', 2, 5, 1)"
+      ]
+    },
+    "sleeping": {
+      "poseTypes": ["SLEEP"],
+      "animations": ["q.bedrock('revavroom_starmobile', 'sleep')"]
+    },
+    "jumping": {
+      "poseTypes": ["STAND", "WALK"],
+      "condition": "q.in_air",
+      "transformTicks": 5,
+      "transformToTicks": 5,
+      "animations": [
+        "q.bedrock('revavroom_starmobile', 'ride_jump')",
+        {
+          "condition": "q.is_ridden",
+          "animation": "q.bedrock('revavroom_starmobile', 'ride_ground')"
+        }
+      ],
+      "quirks": [
+        "q.bedrock_quirk('revavroom_starmobile', 'blink', 2, 5, 1)",
+        "q.bedrock_quirk('revavroom_starmobile', 'blink_right', 2, 5, 1)",
+        "q.bedrock_quirk('revavroom_starmobile', 'blink_left', 2, 5, 1)"
+      ]
+    }
+  }
+}

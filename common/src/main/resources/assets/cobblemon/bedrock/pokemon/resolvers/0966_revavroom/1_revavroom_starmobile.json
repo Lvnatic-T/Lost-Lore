@@ -1,0 +1,91 @@
+{
+  "species": "cobblemon:revavroom",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["segin-starmobile"],
+      "model": "cobblemon:revavroom_starmobile.geo",
+      "poser": "cobblemon:revavroom_starmobile",
+      "texture": "cobblemon:textures/pokemon/0966_revavroom/segin/revavroom_starmobile_segin.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0966_revavroom/segin/revavroom_starmobile_segin_emissive.png"
+        }
+      ]
+    },
+    {
+      "aspects": ["segin-starmobile", "shiny"],
+      "texture": "cobblemon:textures/pokemon/0966_revavroom/segin/revavroom_starmobile_segin_shiny.png"
+    },
+    {
+      "aspects": ["caph-starmobile"],
+      "model": "cobblemon:revavroom_starmobile.geo",
+      "poser": "cobblemon:revavroom_starmobile",
+      "texture": "cobblemon:textures/pokemon/0966_revavroom/caph/revavroom_starmobile_caph.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0966_revavroom/caph/revavroom_starmobile_caph_emissive.png"
+        }
+      ]
+    },
+    {
+      "aspects": ["caph-starmobile", "shiny"],
+      "texture": "cobblemon:textures/pokemon/0966_revavroom/caph/revavroom_starmobile_caph_shiny.png"
+    },
+    {
+      "aspects": ["ruchbah-starmobile"],
+      "model": "cobblemon:revavroom_starmobile.geo",
+      "poser": "cobblemon:revavroom_starmobile",
+      "texture": "cobblemon:textures/pokemon/0966_revavroom/ruchbah/revavroom_starmobile_ruchbah.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0966_revavroom/ruchbah/revavroom_starmobile_ruchbah_emissive.png"
+        }
+      ]
+    },
+    {
+      "aspects": ["ruchbah-starmobile", "shiny"],
+      "texture": "cobblemon:textures/pokemon/0966_revavroom/ruchbah/revavroom_starmobile_ruchbah_shiny.png"
+    },
+    {
+      "aspects": ["schedar-starmobile"],
+      "model": "cobblemon:revavroom_starmobile.geo",
+      "poser": "cobblemon:revavroom_starmobile",
+      "texture": "cobblemon:textures/pokemon/0966_revavroom/schedar/revavroom_starmobile_schedar.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0966_revavroom/schedar/revavroom_starmobile_schedar_emissive.png"
+        }
+      ]
+    },
+    {
+      "aspects": ["schedar-starmobile", "shiny"],
+      "texture": "cobblemon:textures/pokemon/0966_revavroom/schedar/revavroom_starmobile_schedar_shiny.png"
+    },
+    {
+      "aspects": ["navi-starmobile"],
+      "model": "cobblemon:revavroom_starmobile.geo",
+      "poser": "cobblemon:revavroom_starmobile",
+      "texture": "cobblemon:textures/pokemon/0966_revavroom/navi/revavroom_starmobile_navi.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0966_revavroom/navi/revavroom_starmobile_navi_emissive.png"
+        }
+      ]
+    },
+    {
+      "aspects": ["navi-starmobile", "shiny"],
+      "texture": "cobblemon:textures/pokemon/0966_revavroom/navi/revavroom_starmobile_navi_shiny.png"
+    }
+  ]
+}

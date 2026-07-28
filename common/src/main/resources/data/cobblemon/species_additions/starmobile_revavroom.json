@@ -1,0 +1,881 @@
+{
+  "target": "cobblemon:revavroom",
+  "forms": [
+    {
+      "name": "Segin",
+      "aspects": ["segin-starmobile"],
+      "pokedex": ["cobblemon.species.revavroom-segin.desc"],
+      "labels": [
+        "gen9",
+        "restricted"
+      ],
+      "primaryType": "dark",
+      "abilities": [
+        "intimidate",
+        "h:intimidate"
+      ],
+      "baseStats": {
+        "hp": 141,
+        "attack": 119,
+        "defence": 90,
+        "special_attack": 54,
+        "special_defence": 67,
+        "speed": 129
+      },
+      "baseScale": 1.0,
+      "hitbox": {
+        "width": 3.5,
+        "height": 2.95,
+        "fixed": false
+      },
+      "behaviour": {
+        "combat": {
+          "willDefendOwner": true,
+          "willDefendSelf": true,
+          "willFlee": false
+        },
+        "moving": {
+          "fly": {
+            "canFly": false
+          },
+          "swim": {
+            "avoidsWater": true,
+            "canWalkOnLava": true,
+            "canWalkOnWater": true
+          }
+        },
+        "resting": {
+          "canSleep": true,
+          "drowsyChance": 0.0333,
+          "light": "0-4",
+          "rouseChance": 0.0042
+        }
+      },
+      "riding": {
+        "behaviours": {
+          "LAND": {
+            "key": "cobblemon:land/horse",
+            "rideSounds": [],
+            "stats": {
+              "ACCELERATION": "40-60",
+              "JUMP": "5-15",
+              "SKILL": "15-35",
+              "SPEED": "85-105",
+              "STAMINA": "105-125"
+            }
+          }
+        },
+        "seats": [
+          {
+            "locator": "seat_1"
+          },
+          {
+            "locator": "seat_2"
+          },
+          {
+            "locator": "seat_3"
+          },
+          {
+            "locator": "seat_4"
+          }
+        ]
+      },
+      "moves": [
+        "form_change:wickedtorque",
+        "form_change:snarl",
+        "form_change:swift",
+        "1:shiftgear",
+        "1:magnetrise",
+        "1:lick",
+        "1:poisongas",
+        "4:smog",
+        "7:taunt",
+        "10:assurance",
+        "13:sludge",
+        "17:gyroball",
+        "21:headbutt",
+        "25:screech",
+        "28:ironhead",
+        "32:swagger",
+        "36:poisonjab",
+        "46:uproar",
+        "52:spinout",
+        "58:gunkshot",
+        "egg:haze",
+        "egg:partingshot",
+        "egg:selfdestruct",
+        "egg:torment",
+        "egg:toxic",
+        "tm:acidspray",
+        "tm:assurance",
+        "tm:bodyslam",
+        "tm:bulldoze",
+        "tm:curse",
+        "tm:doubleedge",
+        "tm:endeavor",
+        "tm:endure",
+        "tm:facade",
+        "tm:flashcannon",
+        "tm:gigaimpact",
+        "tm:gunkshot",
+        "tm:gyroball",
+        "tm:hardpress",
+        "tm:haze",
+        "tm:headbutt",
+        "tm:heavyslam",
+        "tm:highhorsepower",
+        "tm:hyperbeam",
+        "tm:irondefense",
+        "tm:ironhead",
+        "tm:lashout",
+        "tm:magnetrise",
+        "tm:metalsound",
+        "tm:overheat",
+        "tm:poisonjab",
+        "tm:protect",
+        "tm:raindance",
+        "tm:rest",
+        "tm:sandstorm",
+        "tm:scaryface",
+        "tm:screech",
+        "tm:selfdestruct",
+        "tm:sleeptalk",
+        "tm:sludgebomb",
+        "tm:sludgewave",
+        "tm:steelbeam",
+        "tm:substitute",
+        "tm:sunnyday",
+        "tm:swagger",
+        "tm:takedown",
+        "tm:taunt",
+        "tm:temperflare",
+        "tm:terablast",
+        "tm:thief",
+        "tm:torment",
+        "tm:toxic",
+        "tm:toxicspikes",
+        "tm:uproar",
+        "tm:venoshock",
+        "tm:zenheadbutt",
+        "tutor:bulldoze",
+        "tutor:endeavor",
+        "tutor:flashcannon",
+        "tutor:gigaimpact",
+        "tutor:gunkshot",
+        "tutor:highhorsepower",
+        "tutor:hyperbeam",
+        "tutor:irondefense",
+        "tutor:ironhead",
+        "tutor:lashout",
+        "tutor:magnetrise",
+        "tutor:poisonjab",
+        "tutor:rest",
+        "tutor:sleeptalk",
+        "tutor:sludgebomb",
+        "tutor:steelbeam",
+        "tutor:uproar",
+        "tutor:zenheadbutt"
+      ]
+    },
+    {
+      "name": "Caph",
+      "aspects": ["caph-starmobile"],
+      "pokedex": ["cobblemon.species.revavroom-caph.desc"],
+      "labels": [
+        "gen9",
+        "restricted"
+      ],
+      "primaryType": "fighting",
+      "abilities": [
+        "stamina",
+        "h:stamina"
+      ],
+      "baseStats": {
+        "hp": 119,
+        "attack": 139,
+        "defence": 90,
+        "special_attack": 54,
+        "special_defence": 67,
+        "speed": 131
+      },
+      "baseScale": 1.0,
+      "hitbox": {
+        "width": 4.0,
+        "height": 4.0,
+        "fixed": false
+      },
+      "behaviour": {
+        "combat": {
+          "willDefendOwner": true,
+          "willDefendSelf": true,
+          "willFlee": false
+        },
+        "moving": {
+          "fly": {
+            "canFly": false
+          },
+          "swim": {
+            "avoidsWater": true,
+            "canWalkOnLava": true,
+            "canWalkOnWater": true
+          }
+        },
+        "resting": {
+          "canSleep": true,
+          "drowsyChance": 0.0333,
+          "light": "0-4",
+          "rouseChance": 0.0042
+        }
+      },
+      "riding": {
+        "behaviours": {
+          "LAND": {
+            "key": "cobblemon:land/horse",
+            "rideSounds": [],
+            "stats": {
+              "ACCELERATION": "40-60",
+              "JUMP": "5-15",
+              "SKILL": "15-35",
+              "SPEED": "85-105",
+              "STAMINA": "105-125"
+            }
+          }
+        },
+        "seats": [
+          {
+            "locator": "seat_1"
+          },
+          {
+            "locator": "seat_2"
+          },
+          {
+            "locator": "seat_3"
+          },
+          {
+            "locator": "seat_4"
+          }
+        ]
+      },
+      "moves": [
+        "form_change:combattorque",
+        "1:shiftgear",
+        "1:magnetrise",
+        "1:lick",
+        "1:poisongas",
+        "4:smog",
+        "7:taunt",
+        "10:assurance",
+        "13:sludge",
+        "17:gyroball",
+        "21:headbutt",
+        "25:screech",
+        "28:ironhead",
+        "32:swagger",
+        "36:poisonjab",
+        "46:uproar",
+        "52:spinout",
+        "58:gunkshot",
+        "egg:haze",
+        "egg:partingshot",
+        "egg:selfdestruct",
+        "egg:torment",
+        "egg:toxic",
+        "tm:acidspray",
+        "tm:assurance",
+        "tm:bodyslam",
+        "tm:bulldoze",
+        "tm:curse",
+        "tm:doubleedge",
+        "tm:endeavor",
+        "tm:endure",
+        "tm:facade",
+        "tm:flashcannon",
+        "tm:gigaimpact",
+        "tm:gunkshot",
+        "tm:gyroball",
+        "tm:hardpress",
+        "tm:haze",
+        "tm:headbutt",
+        "tm:heavyslam",
+        "tm:highhorsepower",
+        "tm:hyperbeam",
+        "tm:irondefense",
+        "tm:ironhead",
+        "tm:lashout",
+        "tm:magnetrise",
+        "tm:metalsound",
+        "tm:overheat",
+        "tm:poisonjab",
+        "tm:protect",
+        "tm:raindance",
+        "tm:rest",
+        "tm:sandstorm",
+        "tm:scaryface",
+        "tm:screech",
+        "tm:selfdestruct",
+        "tm:sleeptalk",
+        "tm:sludgebomb",
+        "tm:sludgewave",
+        "tm:steelbeam",
+        "tm:substitute",
+        "tm:sunnyday",
+        "tm:swagger",
+        "tm:takedown",
+        "tm:taunt",
+        "tm:temperflare",
+        "tm:terablast",
+        "tm:thief",
+        "tm:torment",
+        "tm:toxic",
+        "tm:toxicspikes",
+        "tm:uproar",
+        "tm:venoshock",
+        "tm:zenheadbutt",
+        "tutor:bulldoze",
+        "tutor:endeavor",
+        "tutor:flashcannon",
+        "tutor:gigaimpact",
+        "tutor:gunkshot",
+        "tutor:highhorsepower",
+        "tutor:hyperbeam",
+        "tutor:irondefense",
+        "tutor:ironhead",
+        "tutor:lashout",
+        "tutor:magnetrise",
+        "tutor:poisonjab",
+        "tutor:rest",
+        "tutor:sleeptalk",
+        "tutor:sludgebomb",
+        "tutor:steelbeam",
+        "tutor:uproar",
+        "tutor:zenheadbutt"
+      ]
+    },
+    {
+      "name": "Ruchbah",
+      "aspects": ["ruchbah-starmobile"],
+      "pokedex": ["cobblemon.species.revavroom-ruchbah.desc"],
+      "labels": [
+        "gen9",
+        "restricted"
+      ],
+      "primaryType": "fairy",
+      "abilities": [
+        "mistysurge",
+        "h:mistysurge"
+      ],
+      "baseStats": {
+        "hp": 128,
+        "attack": 129,
+        "defence": 90,
+        "special_attack": 54,
+        "special_defence": 67,
+        "speed": 132
+      },
+      "baseScale": 1.0,
+      "hitbox": {
+        "width": 4.0,
+        "height": 4.0,
+        "fixed": false
+      },
+      "behaviour": {
+        "combat": {
+          "willDefendOwner": true,
+          "willDefendSelf": true,
+          "willFlee": false
+        },
+        "moving": {
+          "fly": {
+            "canFly": false
+          },
+          "swim": {
+            "avoidsWater": true,
+            "canWalkOnLava": true,
+            "canWalkOnWater": true
+          }
+        },
+        "resting": {
+          "canSleep": true,
+          "drowsyChance": 0.0333,
+          "light": "0-4",
+          "rouseChance": 0.0042
+        }
+      },
+      "riding": {
+        "behaviours": {
+          "LAND": {
+            "key": "cobblemon:land/horse",
+            "rideSounds": [],
+            "stats": {
+              "ACCELERATION": "40-60",
+              "JUMP": "5-15",
+              "SKILL": "15-35",
+              "SPEED": "85-105",
+              "STAMINA": "105-125"
+            }
+          }
+        },
+        "seats": [
+          {
+            "locator": "seat_1"
+          },
+          {
+            "locator": "seat_2"
+          },
+          {
+            "locator": "seat_3"
+          },
+          {
+            "locator": "seat_4"
+          }
+        ]
+      },
+      "moves": [
+        "form_change:magicaltorque",
+        "form_change:steelroller",
+        "form_change:confuseray",
+        "1:shiftgear",
+        "1:magnetrise",
+        "1:lick",
+        "1:poisongas",
+        "4:smog",
+        "7:taunt",
+        "10:assurance",
+        "13:sludge",
+        "17:gyroball",
+        "21:headbutt",
+        "25:screech",
+        "28:ironhead",
+        "32:swagger",
+        "36:poisonjab",
+        "46:uproar",
+        "52:spinout",
+        "58:gunkshot",
+        "egg:haze",
+        "egg:partingshot",
+        "egg:selfdestruct",
+        "egg:torment",
+        "egg:toxic",
+        "tm:acidspray",
+        "tm:assurance",
+        "tm:bodyslam",
+        "tm:bulldoze",
+        "tm:curse",
+        "tm:doubleedge",
+        "tm:endeavor",
+        "tm:endure",
+        "tm:facade",
+        "tm:flashcannon",
+        "tm:gigaimpact",
+        "tm:gunkshot",
+        "tm:gyroball",
+        "tm:hardpress",
+        "tm:haze",
+        "tm:headbutt",
+        "tm:heavyslam",
+        "tm:highhorsepower",
+        "tm:hyperbeam",
+        "tm:irondefense",
+        "tm:ironhead",
+        "tm:lashout",
+        "tm:magnetrise",
+        "tm:metalsound",
+        "tm:overheat",
+        "tm:poisonjab",
+        "tm:protect",
+        "tm:raindance",
+        "tm:rest",
+        "tm:sandstorm",
+        "tm:scaryface",
+        "tm:screech",
+        "tm:selfdestruct",
+        "tm:sleeptalk",
+        "tm:sludgebomb",
+        "tm:sludgewave",
+        "tm:steelbeam",
+        "tm:substitute",
+        "tm:sunnyday",
+        "tm:swagger",
+        "tm:takedown",
+        "tm:taunt",
+        "tm:temperflare",
+        "tm:terablast",
+        "tm:thief",
+        "tm:torment",
+        "tm:toxic",
+        "tm:toxicspikes",
+        "tm:uproar",
+        "tm:venoshock",
+        "tm:zenheadbutt",
+        "tutor:bulldoze",
+        "tutor:endeavor",
+        "tutor:flashcannon",
+        "tutor:gigaimpact",
+        "tutor:gunkshot",
+        "tutor:highhorsepower",
+        "tutor:hyperbeam",
+        "tutor:irondefense",
+        "tutor:ironhead",
+        "tutor:lashout",
+        "tutor:magnetrise",
+        "tutor:poisonjab",
+        "tutor:rest",
+        "tutor:sleeptalk",
+        "tutor:sludgebomb",
+        "tutor:steelbeam",
+        "tutor:uproar",
+        "tutor:zenheadbutt"
+      ]
+    },
+    {
+      "name": "Schedar",
+      "aspects": ["schedar-starmobile"],
+      "pokedex": ["cobblemon.species.revavroom-schedar.desc"],
+      "labels": [
+        "gen9",
+        "restricted"
+      ],
+      "primaryType": "fire",
+      "abilities": [
+        "speedboost",
+        "h:speedboost"
+      ],
+      "baseStats": {
+        "hp": 142,
+        "attack": 119,
+        "defence": 90,
+        "special_attack": 54,
+        "special_defence": 67,
+        "speed": 128
+      },
+      "baseScale": 1.0,
+      "hitbox": {
+        "width": 4.0,
+        "height": 4.0,
+        "fixed": false
+      },
+      "behaviour": {
+        "combat": {
+          "willDefendOwner": true,
+          "willDefendSelf": true,
+          "willFlee": false
+        },
+        "moving": {
+          "fly": {
+            "canFly": false
+          },
+          "swim": {
+            "avoidsWater": true,
+            "canWalkOnLava": true,
+            "canWalkOnWater": true
+          }
+        },
+        "resting": {
+          "canSleep": true,
+          "drowsyChance": 0.0333,
+          "light": "0-4",
+          "rouseChance": 0.0042
+        }
+      },
+      "riding": {
+        "behaviours": {
+          "LAND": {
+            "key": "cobblemon:land/horse",
+            "rideSounds": [],
+            "stats": {
+              "ACCELERATION": "40-60",
+              "JUMP": "5-15",
+              "SKILL": "15-35",
+              "SPEED": "85-105",
+              "STAMINA": "105-125"
+            }
+          }
+        },
+        "seats": [
+          {
+            "locator": "seat_1"
+          },
+          {
+            "locator": "seat_2"
+          },
+          {
+            "locator": "seat_3"
+          },
+          {
+            "locator": "seat_4"
+          }
+        ]
+      },
+      "moves": [
+        "form_change:blazingtorque",
+        "form_change:swift",
+        "1:shiftgear",
+        "1:magnetrise",
+        "1:lick",
+        "1:poisongas",
+        "4:smog",
+        "7:taunt",
+        "10:assurance",
+        "13:sludge",
+        "17:gyroball",
+        "21:headbutt",
+        "25:screech",
+        "28:ironhead",
+        "32:swagger",
+        "36:poisonjab",
+        "46:uproar",
+        "52:spinout",
+        "58:gunkshot",
+        "egg:haze",
+        "egg:partingshot",
+        "egg:selfdestruct",
+        "egg:torment",
+        "egg:toxic",
+        "tm:acidspray",
+        "tm:assurance",
+        "tm:bodyslam",
+        "tm:bulldoze",
+        "tm:curse",
+        "tm:doubleedge",
+        "tm:endeavor",
+        "tm:endure",
+        "tm:facade",
+        "tm:flashcannon",
+        "tm:gigaimpact",
+        "tm:gunkshot",
+        "tm:gyroball",
+        "tm:hardpress",
+        "tm:haze",
+        "tm:headbutt",
+        "tm:heavyslam",
+        "tm:highhorsepower",
+        "tm:hyperbeam",
+        "tm:irondefense",
+        "tm:ironhead",
+        "tm:lashout",
+        "tm:magnetrise",
+        "tm:metalsound",
+        "tm:overheat",
+        "tm:poisonjab",
+        "tm:protect",
+        "tm:raindance",
+        "tm:rest",
+        "tm:sandstorm",
+        "tm:scaryface",
+        "tm:screech",
+        "tm:selfdestruct",
+        "tm:sleeptalk",
+        "tm:sludgebomb",
+        "tm:sludgewave",
+        "tm:steelbeam",
+        "tm:substitute",
+        "tm:sunnyday",
+        "tm:swagger",
+        "tm:takedown",
+        "tm:taunt",
+        "tm:temperflare",
+        "tm:terablast",
+        "tm:thief",
+        "tm:torment",
+        "tm:toxic",
+        "tm:toxicspikes",
+        "tm:uproar",
+        "tm:venoshock",
+        "tm:zenheadbutt",
+        "tutor:bulldoze",
+        "tutor:endeavor",
+        "tutor:flashcannon",
+        "tutor:gigaimpact",
+        "tutor:gunkshot",
+        "tutor:highhorsepower",
+        "tutor:hyperbeam",
+        "tutor:irondefense",
+        "tutor:ironhead",
+        "tutor:lashout",
+        "tutor:magnetrise",
+        "tutor:poisonjab",
+        "tutor:rest",
+        "tutor:sleeptalk",
+        "tutor:sludgebomb",
+        "tutor:steelbeam",
+        "tutor:uproar",
+        "tutor:zenheadbutt"
+      ]
+    },
+    {
+      "name": "Navi",
+      "aspects": ["navi-starmobile"],
+      "pokedex": ["cobblemon.species.revavroom-segin.desc"],
+      "labels": [
+        "gen9",
+        "restricted"
+      ],
+      "primaryType": "poison",
+      "abilities": [
+        "toxicdebris",
+        "h:toxicdebris"
+      ],
+      "baseStats": {
+        "hp": 135,
+        "attack": 124,
+        "defence": 90,
+        "special_attack": 54,
+        "special_defence": 67,
+        "speed": 130
+      },
+      "baseScale": 1.0,
+      "hitbox": {
+        "width": 4.0,
+        "height": 4.0,
+        "fixed": false
+      },
+      "behaviour": {
+        "combat": {
+          "willDefendOwner": true,
+          "willDefendSelf": true,
+          "willFlee": false
+        },
+        "moving": {
+          "fly": {
+            "canFly": false
+          },
+          "swim": {
+            "avoidsWater": true,
+            "canWalkOnLava": true,
+            "canWalkOnWater": true
+          }
+        },
+        "resting": {
+          "canSleep": true,
+          "drowsyChance": 0.0333,
+          "light": "0-4",
+          "rouseChance": 0.0042
+        }
+      },
+      "riding": {
+        "behaviours": {
+          "LAND": {
+            "key": "cobblemon:land/horse",
+            "rideSounds": [],
+            "stats": {
+              "ACCELERATION": "40-60",
+              "JUMP": "5-15",
+              "SKILL": "15-35",
+              "SPEED": "85-105",
+              "STAMINA": "105-125"
+            }
+          }
+        },
+        "seats": [
+          {
+            "locator": "seat_1"
+          },
+          {
+            "locator": "seat_2"
+          },
+          {
+            "locator": "seat_3"
+          },
+          {
+            "locator": "seat_4"
+          }
+        ]
+      },
+      "moves": [
+        "form_change:noxioustorque",
+        "form_change:flamecharge",
+        "1:shiftgear",
+        "1:magnetrise",
+        "1:lick",
+        "1:poisongas",
+        "4:smog",
+        "7:taunt",
+        "10:assurance",
+        "13:sludge",
+        "17:gyroball",
+        "21:headbutt",
+        "25:screech",
+        "28:ironhead",
+        "32:swagger",
+        "36:poisonjab",
+        "46:uproar",
+        "52:spinout",
+        "58:gunkshot",
+        "egg:haze",
+        "egg:partingshot",
+        "egg:selfdestruct",
+        "egg:torment",
+        "egg:toxic",
+        "tm:acidspray",
+        "tm:assurance",
+        "tm:bodyslam",
+        "tm:bulldoze",
+        "tm:curse",
+        "tm:doubleedge",
+        "tm:endeavor",
+        "tm:endure",
+        "tm:facade",
+        "tm:flashcannon",
+        "tm:gigaimpact",
+        "tm:gunkshot",
+        "tm:gyroball",
+        "tm:hardpress",
+        "tm:haze",
+        "tm:headbutt",
+        "tm:heavyslam",
+        "tm:highhorsepower",
+        "tm:hyperbeam",
+        "tm:irondefense",
+        "tm:ironhead",
+        "tm:lashout",
+        "tm:magnetrise",
+        "tm:metalsound",
+        "tm:overheat",
+        "tm:poisonjab",
+        "tm:protect",
+        "tm:raindance",
+        "tm:rest",
+        "tm:sandstorm",
+        "tm:scaryface",
+        "tm:screech",
+        "tm:selfdestruct",
+        "tm:sleeptalk",
+        "tm:sludgebomb",
+        "tm:sludgewave",
+        "tm:steelbeam",
+        "tm:substitute",
+        "tm:sunnyday",
+        "tm:swagger",
+        "tm:takedown",
+        "tm:taunt",
+        "tm:temperflare",
+        "tm:terablast",
+        "tm:thief",
+        "tm:torment",
+        "tm:toxic",
+        "tm:toxicspikes",
+        "tm:uproar",
+        "tm:venoshock",
+        "tm:zenheadbutt",
+        "tutor:bulldoze",
+        "tutor:endeavor",
+        "tutor:flashcannon",
+        "tutor:gigaimpact",
+        "tutor:gunkshot",
+        "tutor:highhorsepower",
+        "tutor:hyperbeam",
+        "tutor:irondefense",
+        "tutor:ironhead",
+        "tutor:lashout",
+        "tutor:magnetrise",
+        "tutor:poisonjab",
+        "tutor:rest",
+        "tutor:sleeptalk",
+        "tutor:sludgebomb",
+        "tutor:steelbeam",
+        "tutor:uproar",
+        "tutor:zenheadbutt"
+      ]
+    }
+  ]
+}
