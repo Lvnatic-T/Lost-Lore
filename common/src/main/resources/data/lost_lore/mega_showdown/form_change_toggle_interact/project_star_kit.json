@@ -1,0 +1,70 @@
+{
+  "pokemons": ["Revavroom"],
+  "consume": 0,
+  "form_apply_order": [
+    "segin-starmobile",
+    "caph-starmobile",
+    "ruchbah-starmobile",
+    "schedar-starmobile",
+    "navi-starmobile",
+    "no-starmobile"
+  ],
+  "aspect_conditions": [
+    {
+      "apply": {
+        "aspects": ["starmobile=segin"],
+        "aspect": {
+          "required_aspects": [["no-starmobile"]]
+        }
+      }
+    },
+    {
+      "apply": {
+        "aspects": ["starmobile=caph"],
+        "aspect": {
+          "required_aspects": [["segin-starmobile"]]
+        }
+      }
+    },
+    {
+      "apply": {
+        "aspects": ["starmobile=ruchbah"],
+        "aspect": {
+          "required_aspects": [["caph-starmobile"]]
+        }
+      }
+    },
+    {
+      "apply": {
+        "aspects": ["starmobile=schedar"],
+        "aspect": {
+          "required_aspects": [["ruchbah-starmobile"]]
+        }
+      }
+    },
+    {
+      "apply": {
+        "aspects": ["starmobile=navi"],
+        "aspect": {
+          "required_aspects": [["schedar-starmobile"]]
+        }
+      }
+    },
+    {
+      "apply": {
+        "aspects": ["starmobile=no"],
+        "aspect": {
+          "required_aspects": [["navi-starmobile"]]
+        }
+      }
+    }
+  ],
+  "effects": [
+    "mega_showdown:costume_box_lucario",
+    "mega_showdown:costume_box_lucario",
+    "mega_showdown:costume_box_lucario",
+    "mega_showdown:costume_box_lucario",
+    "mega_showdown:costume_box_lucario",
+    "mega_showdown:costume_box_lucario"
+  ]
+}

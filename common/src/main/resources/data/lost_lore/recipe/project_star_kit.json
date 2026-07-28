@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "fdk",
+    "gcp",
+    "www"
+  ],
+  "key": {
+    "d": {
+      "item": "cobblemon:dark_gem"
+    },
+    "p": {
+      "item": "cobblemon:poison_gem"
+    },
+    "f": {
+      "item": "cobblemon:fire_gem"
+    },
+    "g": {
+      "item": "cobblemon:fairy_gem"
+    },
+    "k": {
+      "item": "cobblemon:fighting_gem"
+    },
+    "c": {
+      "tag": "cobblemon:gilded_chests"
+    },
+    "w": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "id": "lost_lore:project_star_kit"
+  }
+}

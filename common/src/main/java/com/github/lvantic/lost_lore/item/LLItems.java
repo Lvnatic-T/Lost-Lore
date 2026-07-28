@@ -30,6 +30,7 @@ public class LLItems {
     // Form Change Toggle Interact
     public static RegistrySupplier<Item> COSTUME_BOX_LUCARIO = registerFormChangeToggleInteract("costume_box_lucario");
     public static RegistrySupplier<Item> COSTUME_BOX_INCINEROAR = registerFormChangeToggleInteract("costume_box_incineroar");
+    public static RegistrySupplier<Item> PROJECT_STAR_KIT = registerFormChangeToggleInteract("project_star_kit");
 
     // Held Form Change
     public static RegistrySupplier<Item> TIME_GEAR = registerHeldFormChange("time_gear");

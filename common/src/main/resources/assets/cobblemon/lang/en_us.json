@@ -184,6 +184,13 @@
 
   "cobblemon.ui.pokedex.info.form.slowbro-megay": "Galarian Mega",
 
+  "cobblemon.ui.pokedex.info.form.revavroom-caph": "Caph",
+  "cobblemon.ui.pokedex.info.form.revavroom-schedar": "Schedar",
+  "cobblemon.ui.pokedex.info.form.revavroom-ruchbah": "Ruchbah",
+  "cobblemon.ui.pokedex.info.form.revavroom-navi": "Navi",
+  "cobblemon.ui.pokedex.info.form.revavroom-segin": "Segin",
+  "cobblemon.ui.pokedex.info.form.revavroom": "",
+
 
   "cobblemon.species.mimikyu-acerola.desc": "This Mimikyu, lovely nicknamed Mimikins is said to have awakened in the ruins of the Thrifty Megamart, drawn to Acerola’s presence. Unlike others of its kind, it rarely shows aggression, instead clinging to her like a protective shadow. Some claim it no longer disguises itself out of envy - but out of reverence, masking a spirit that once knew Acerola in life.",
   "cobblemon.species.mimikyu-busted-acerola.desc": "After its disguise is damaged, Mimikins reveals something far older and colder than cloth beneath. When exposed, its presence chills the air and silences nearby Pokémon. Some say Acerola can still understand its cries, hinting at a bond forged not in life—but in death.",
@@ -246,6 +253,12 @@
   "cobblemon.species.mewtwo-shadow.desc": "A powerful Mewtwo corrupted by shadow energy. It wields overwhelming psychic force through a dark crystal, fighting with relentless aggression and unstable power.",
 
   "cobblemon.species.pichu-spikyeared.desc":"This rare Pichu is said to have traveled through time with Celebi. Unlike others of its kind, it cannot evolve, as it is bound to an era long past. Its spiky ear is a mark of that journey—an echo of a world that once was.",
+
+  "cobblemon.species.revavroom-caph.desc": "The Fighting Crew's Operation Star modifications reinforced its frame beyond ordinary limits. Once it gains speed, almost nothing can withstand its charge.",
+  "cobblemon.species.revavroom-schedar.desc": "This Pokémon was modified according to the Operation Star by Team Star's Fire Crew. The intense heat from its engine can turn roads molten in moments.",
+  "cobblemon.species.revavroom-ruchbah.desc": "Team Star's Fairy Crew adorned this Pokémon with scrap metal and brilliant decorations. Its dazzling appearance is said to distract foes before it attacks.",
+  "cobblemon.species.revavroom-navi.desc": "Created by Team Star's Poison Crew, it releases toxic exhaust wherever it travels. Even after it has passed, the air around it remains hazardous.",
+  "cobblemon.species.revavroom-segin.desc": "Built under the Operation Star, it serves as the pride of Team Star's Dark Crew. Its engine roars are said to inspire unwavering loyalty in nearby Pokémon.",
 
   "cobblemon.species.riolu-pmd.desc":"This Riolu shows unwavering loyalty to its teammates. Through its aura, it senses emotions, allowing it to protect allies in danger. Though small, it’s driven by a fierce sense of justice born from its time as an explorer.",
   "cobblemon.species.riolu-psmd.desc":"Forged in the trials of mystery dungeons, this Riolu channels the emotions of others to navigate perilous missions. Its strong bond with its partner fuels its courage, even when the odds seem impossible.",
