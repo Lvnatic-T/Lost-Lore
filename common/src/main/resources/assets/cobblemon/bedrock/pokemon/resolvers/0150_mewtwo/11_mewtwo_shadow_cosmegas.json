@@ -4,14 +4,13 @@
   "variations": [
     {
       "aspects": ["cosmetic_item-mega_x", "shadows"],
-      "model": "cobblemon:mewtwo_mega_x.geo",
-      "poser": "cobblemon:mewtwo_mega_x",
+      "model": "cobblemon:mewtwo_shadow_mega_x.geo",
+      "poser": "cobblemon:mewtwo_x",
       "texture": "cobblemon:textures/pokemon/0150_mewtwo/mewtwo_shadow_mega_x.png",
       "layers": [
         {
           "name": "emissive",
-          "emissive": true,
-          "texture": "cobblemon:textures/pokemon/0150_mewtwo/mewtwo_shadow_mega_x_emissive.png"
+          "texture": "cobblemon:textures/pokemon/blank.png"
         }
       ]
     },
@@ -21,14 +20,13 @@
     },
     {
       "aspects": ["cosmetic_item-mega_y", "shadows"],
-      "model": "cobblemon:mewtwo_mega_y.geo",
-      "poser": "cobblemon:mewtwo_mega_y",
+      "model": "cobblemon:mewtwo_shadow_mega_y.geo",
+      "poser": "cobblemon:mewtwo_x",
       "texture": "cobblemon:textures/pokemon/0150_mewtwo/mewtwo_shadow_mega_y.png",
       "layers": [
         {
           "name": "emissive",
-          "emissive": true,
-          "texture": "cobblemon:textures/pokemon/0150_mewtwo/mewtwo_shadow_mega_y_emissive.png"
+          "texture": "cobblemon:textures/pokemon/blank.png"
         }
       ]
     },
