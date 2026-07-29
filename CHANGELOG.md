@@ -1,6 +1,7 @@
 # Changelog v3.0.0
 ## Added Revavroom Starmobiles!
-- The iconic bosses from Scarlet & Violet pog
+- The iconic bosses from Scarlet & Violet
+- Can be ridden/driven by up to four players at once
 - Model, Textures & Animations by the one & only **Sherbet**!
 - Switch through their different forms with the _"Project Star Kit"_
 - Have unique stats & access to their signature moves/movepools
@@ -10,7 +11,7 @@
 - Has a custom ability and three signature moves
 - Spawns in herds with many gastly it also uses in battle
 - More information on it can be found on the Lost Lore mod page
-- Model, Textures & Animations by **DaDolphin, KorytheMaril, Lazaro & Sherbet**!
+- Model & animations by **DaDolphin, KorytheMaril, Lazaro & Sherbet**!
 ## Shadow & Armored Mewtwo visual rework!
 - Finally added custom models for both Mewtwo variants
 - Fully reworked the Shadow Megas matching MSD 1.9.0+'s rework
