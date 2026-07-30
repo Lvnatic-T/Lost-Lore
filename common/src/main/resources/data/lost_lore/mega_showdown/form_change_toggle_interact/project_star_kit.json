@@ -60,11 +60,11 @@
     }
   ],
   "effects": [
-    "mega_showdown:costume_box_lucario",
-    "mega_showdown:costume_box_lucario",
-    "mega_showdown:costume_box_lucario",
-    "mega_showdown:costume_box_lucario",
-    "mega_showdown:costume_box_lucario",
-    "mega_showdown:costume_box_lucario"
+    "mega_showdown:starmobile",
+    "mega_showdown:starmobile",
+    "mega_showdown:starmobile",
+    "mega_showdown:starmobile",
+    "mega_showdown:starmobile",
+    "mega_showdown:starmobile_revert"
   ]
 }

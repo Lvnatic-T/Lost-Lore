@@ -1,6 +1,7 @@
 # To-do List:
 ## For next update:
-- Add Shadow Mega Mewtwo Remodels
+- Change Project Star Kit effects/sounds - anvil probably, effect doesn't matter - probably same as armored mewtwo
+- ~~Add Shadow Mega Mewtwo Remodels~~
 - ~~Update Gradle and mod json/toml~~
 - ~~Add new Shadow/Armored Mewtwo models and data~~
 ## For 1.8:

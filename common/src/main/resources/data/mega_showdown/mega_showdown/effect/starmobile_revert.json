@@ -1,0 +1,12 @@
+{
+  "minecraft": {
+    "particle_apply": "minecraft:explosion",
+    "source_apply": ["root"],
+    "sound_apply": {
+      "sound_id": "minecraft:block.anvil.destroy"
+    },
+    "animations": {
+      "animations_apply": ["cry"]
+    }
+  }
+}
