@@ -19,6 +19,7 @@
 - Update is fully visual, stats, movepools and functionality stay the same _(for now)_
 - Big shoutout to everyone who helped me with it, including **Carrot, Nova & Sherbet** - it took us all a **LONG** time to finish
 - AllTheMons x Mega Showdown is no longer required _(still highly recommended for obtainment methods of legendaries and items)_
+- _If_ you use ATM x MSD you _have_ to update to ATM x MSD v3.7.0 to avoid conflicts with the duplicate Armored/Shadow Mewtwo assets
 ## Smaller Additions, updates & fixes:
 - Updated some German translations
 - Updated to MSD's new data format _(1.9.0+)_
