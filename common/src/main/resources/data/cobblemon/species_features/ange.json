@@ -1,0 +1,6 @@
+{
+  "keys": ["ange"],
+  "type": "flag",
+  "isAspect": true,
+  "default": false
+}

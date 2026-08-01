@@ -1,0 +1,30 @@
+{
+  "species": "cobblemon:floette",
+  "order": 5,
+  "variations": [
+    {
+      "aspects": ["flower-eternal","ange"],
+      "poser": "cobblemon:floette_ange",
+      "model": "cobblemon:floette_ange.geo",
+      "texture": "cobblemon:textures/pokemon/0670_floette/floette_ange.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0670_floette/floette_ange_emissive.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": ["flower-eternal","ange", "shiny"],
+      "texture": "cobblemon:textures/pokemon/0670_floette/floette_ange_shiny.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0670_floette/floette_ange_emissive.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

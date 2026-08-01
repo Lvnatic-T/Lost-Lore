@@ -1,6 +1,7 @@
 {
     "itemgroup.lost_lore.lostlore_items": "Lost Lore",
 
+    "item.lost_lore.light_of_life": "§5Light of Life§r",
     "item.lost_lore.ancient_light_ball": "§5Ancient Light Ball§r",
     "item.lost_lore.binding_armor": "§5Binding Armor§r",
     "item.lost_lore.corrupted_wish": "§5Corrupted Wish§r",
@@ -28,6 +29,7 @@
     "item.lost_lore.time_gear": "§5Time Gear§r",
     "item.lost_lore.water_shuriken": "§5Water Shuriken§r",
 
+    "tooltip.lost_lore.light_of_life.tooltip": "§7A fragment once unleashed by the Ultimate Weapon. It resonates only with Eternal Flowers§r",
     "tooltip.lost_lore.ancient_light_ball.tooltip": "§7A rare relic from a distant time - it has a strange effect on Pichu§r",
     "tooltip.lost_lore.binding_armor.tooltip": "§7Focuses and restrains Mewtwo's Powers by covering him with a Binding Armor Set§r",
     "tooltip.lost_lore.corrupted_wish.tooltip": "§7A wish tag granted by Jirachi, tainted by evil intentions - it turns Groudon into a Virus like Creature§r",
@@ -52,5 +54,4 @@
     "tooltip.lost_lore.slowbrogonite.tooltip": "§7Allows Galarian Slowbro to Mega Evolve into Galarian Mega Slowbro§r",
     "tooltip.lost_lore.time_gear.tooltip": "§7When resonating with Dialga, it unshackles its Primal instincts§r",
     "tooltip.lost_lore.water_shuriken.tooltip": "§7A rare shuriken that allows you to change the appearance of Greninja§r"
-
   }

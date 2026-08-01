@@ -34,6 +34,7 @@ public class LLItems {
 
     // Held Form Change
     public static RegistrySupplier<Item> TIME_GEAR = registerHeldFormChange("time_gear");
+    public static RegistrySupplier<Item> LIGHT_OF_LIFE = registerHeldFormChange("light_of_life");
 
     // Solo Fusion
     public static RegistrySupplier<Item> DREAM_CATCHER = registerSoloFusion("dream_catcher");
@@ -46,7 +47,6 @@ public class LLItems {
     // Showdown Items
     public static RegistrySupplier<Item> SHADOW_GEM = registerShowdown("shadow_gem");
     public static RegistrySupplier<Item> CRYSTAL_GEM = registerShowdown("crystal_gem");
-
 
     // No function
     public static RegistrySupplier<Item> ANCIENT_LIGHT_BALL = registerNormal("ancient_light_ball");

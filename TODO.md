@@ -1,16 +1,15 @@
 # To-do List:
 ## For next update:
-- Change Project Star Kit effects/sounds - anvil probably, effect doesn't matter - probably same as armored mewtwo
-- ~~Add Shadow Mega Mewtwo Remodels~~
-- ~~Update Gradle and mod json/toml~~
-- ~~Add new Shadow/Armored Mewtwo models and data~~
+- Check what's wrong with Shadow Mega Mewtwo Y cosmega
+- Fix Ash Greninja transformation/Cosmetic
+- Add recipe for Light of Life
 ## For 1.8:
 - Check if Tyranitar needs update
 - Check if Crystal Steelix needs update
 - Wait for Yajats commit for the Type Gem blocks and buds
 ## Pokémon additions:
+- ~~Ange Floette from Navas~~
 - Porygon Zero line
-- ~~Starmobile Revavrooms~~
 - Ghosts from Lavender Tower _(with `Haunted Encounters` interaction)_
 - Void Creatures _(by Kory)_ from Mystery Dungeon _(with `Shadowed Hearts` interaction)_
 - Tree/Dark Celebi _(by Kory)_

@@ -1,6 +1,7 @@
 {
     "itemgroup.lost_lore.lostlore_items": "Lost Lore",
 
+    "item.lost_lore.light_of_life": "§5Licht des Lebens§r",
     "item.lost_lore.ancient_light_ball": "§Uralter Kugelblitz§r",
     "item.lost_lore.binding_armor": "§5Bindende Rüstung§r",
     "item.lost_lore.corrupted_wish": "§5Verdorbener Wunsch§r",
@@ -28,6 +29,7 @@
     "item.lost_lore.time_gear": "§5Zeitrad§r",
     "item.lost_lore.water_shuriken": "§5Wasser Shuriken§r",
 
+    "tooltip.lost_lore.light_of_life.tooltip": "§7Ein Fragment, das einst von der Ultimativen Waffe freigesetzt wurde. Es reagiert nur auf Ewigblütler-Blumen§r",
     "tooltip.lost_lore.ancient_light_ball.tooltip": "§7Ein seltenes Relikt aus längst vergangenen Zeiten – es hat eine seltsame Wirkung auf Pichu§r",
     "tooltip.lost_lore.binding_armor.tooltip": "§7Konzentriert und zügelt Mewtus Kräfte, indem es ihn mit einer bindenden Rüstung bedeckt§r",
     "tooltip.lost_lore.corrupted_wish.tooltip": "§7Ein von Jirachi gewährter Wunschanhänger, der von bösen Absichten befleckt ist – er verwandelt Groudon in eine virusähnliche Kreatur§r",
@@ -52,5 +54,4 @@
     "tooltip.lost_lore.slowbrogonite.tooltip": "§7Erlaubt es Galar-Lahmus zu Galar Mega Lahmus mega-zuentwickeln§r",
     "tooltip.lost_lore.time_gear.tooltip": "§7Entfesselt Dialgas Urinstinkte wenn es mit ihm in Resonanz tritt§r",
     "tooltip.lost_lore.water_shuriken.tooltip": "§7Ein seltener Shuriken, der das Aussehen von Quajutsu verändert§r"
-
   }

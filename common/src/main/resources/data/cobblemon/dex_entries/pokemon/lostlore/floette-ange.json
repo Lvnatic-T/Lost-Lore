@@ -1,0 +1,13 @@
+{
+  "id": "cobblemon:floette-ange",
+  "speciesId": "cobblemon:floette",
+  "displayAspects": [],
+  "conditionAspects": [],
+  "forms": [
+    {
+      "displayForm": "Ange",
+      "unlockForms": ["ange"]
+    }
+  ],
+  "variations": []
+}

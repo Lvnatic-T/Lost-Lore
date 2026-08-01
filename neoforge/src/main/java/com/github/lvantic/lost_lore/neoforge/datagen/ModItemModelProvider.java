@@ -30,6 +30,7 @@ public class ModItemModelProvider extends ItemModelProvider {
         basicItem(LLItems.PROJECT_STAR_KIT.get());
 
         basicItem(LLItems.TIME_GEAR.get());
+        basicItem(LLItems.LIGHT_OF_LIFE.get());
 
         basicItem(LLItems.CRYSTALLINE_STEELIXITE.get());
         basicItem(LLItems.SHADOW_MEWTWONITE_X.get());
