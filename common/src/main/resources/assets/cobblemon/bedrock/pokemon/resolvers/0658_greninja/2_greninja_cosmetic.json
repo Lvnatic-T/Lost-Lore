@@ -1,33 +1,44 @@
 {
   "species": "cobblemon:greninja",
-  "order": 1,
+  "order": 2,
   "variations": [
     {
       "aspects": ["water_shuriken"],
-      "poser": "cobblemon:ashgreninja",
-      "model": "cobblemon:ashgreninja.geo",
-      "texture": "cobblemon:textures/pokemon/0658_greninja/ash_greninja.png",
+      "poser": "cobblemon:greninja_ash",
+      "model": "cobblemon:greninja_ash.geo",
+      "texture": "cobblemon:textures/pokemon/0658_greninja/greninja_ash.png",
       "layers": [
         {
-          "name": "backshuriken",
-          "texture": {
-            "frames": [
-              "cobblemon:textures/pokemon/0658_greninja/water_shuriken.png",
-              "cobblemon:textures/pokemon/0658_greninja/water_shuriken1.png",
-              "cobblemon:textures/pokemon/0658_greninja/water_shuriken2.png",
-              "cobblemon:textures/pokemon/0658_greninja/water_shuriken3.png"
-            ],
-            "fps": 10,
-            "loop": true
-          },
-          "emissive": false,
-          "translucent": true
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0658_greninja/greninja_ash_emissive.png",
+          "emissive": true,
+          "translucent": false
+        },
+        {
+          "name": "transparency",
+          "texture": "cobblemon:textures/pokemon/0658_greninja/greninja_ash_transparency.png",
+          "translucent": true,
+          "translucent_cull": true
         }
       ]
     },
     {
       "aspects": ["water_shuriken", "shiny"],
-      "texture": "cobblemon:textures/pokemon/0658_greninja/ash_greninja_shiny.png"
+      "texture": "cobblemon:textures/pokemon/0658_greninja/greninja_ash_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0658_greninja/greninja_ash_emissive_shiny.png",
+          "emissive": true,
+          "translucent": false
+        },
+        {
+          "name": "transparency",
+          "texture": "cobblemon:textures/pokemon/0658_greninja/greninja_ash_transparency_shiny.png",
+          "translucent": true,
+          "translucent_cull": true
+        }
+      ]
     }
   ]
 }
