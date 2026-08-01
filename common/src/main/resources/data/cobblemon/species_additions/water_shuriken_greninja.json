@@ -1,0 +1,15 @@
+{
+  "target": "Greninja",
+  "forms": [
+    {
+      "name": "Water Shuriken",
+      "aspects": ["water_shuriken"],
+      "baseScale": 0.58,
+      "hitbox": {
+        "width": 1.55,
+        "height": 3.1,
+        "fixed": false
+      }
+    }
+  ]
+}
