@@ -84,6 +84,17 @@
   "cobblemon.move.zshinyglare": "Z Glanz Blick",
   "cobblemon.move.zshinyglare.desc": "Glänzende Kristalle erhöhen die Verteidigung des Anwenders.",
 
+  "cobblemon.move.wickedtorque": "Finsterturbo",
+  "cobblemon.move.wickedtorque.desc": "Hat eine Chance von 10%, das Ziel in Schlaf zu versetzen.",
+  "cobblemon.move.blazingtorque": "Hitzeturbo",
+  "cobblemon.move.blazingtorque.desc": "Hat eine Chance von 30 %, das Ziel zu verbrennen.",
+  "cobblemon.move.noxioustorque": "Toxiturbo",
+  "cobblemon.move.noxioustorque.desc": "Hat eine Chance von 30 %, das Ziel zu vergiften.",
+  "cobblemon.move.magicaltorque": "Zauberturbo",
+  "cobblemon.move.magicaltorque.desc": "Hat eine Chance von 30 %, das Ziel zu verwirren.",
+  "cobblemon.move.combattorque": "Raufturbo",
+  "cobblemon.move.combattorque.desc": "Hat eine Chance von 30 %, das Ziel zu paralysieren.",
+
 
   "cobblemon.pokedex.variation.outfit": "Outfits",
   "cobblemon.pokedex.variation.scarf": "Schale",

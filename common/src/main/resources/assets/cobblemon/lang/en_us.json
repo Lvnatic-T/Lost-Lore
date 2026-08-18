@@ -84,6 +84,17 @@
   "cobblemon.move.zshinyglare": "Z Shiny Glare",
   "cobblemon.move.zshinyglare.desc": "Shiny crystals boost the users defense.",
 
+  "cobblemon.move.wickedtorque": "Wicked Torque",
+  "cobblemon.move.wickedtorque.desc": "Has a 10% chance to put the target to sleep.",
+  "cobblemon.move.blazingtorque": "Blazing Torque",
+  "cobblemon.move.blazingtorque.desc": "Has a 30% chance to burn the target.",
+  "cobblemon.move.noxioustorque": "Noxious Torque",
+  "cobblemon.move.noxioustorque.desc": "Has a 30% chance to poison the target.",
+  "cobblemon.move.magicaltorque": "Magical Torque",
+  "cobblemon.move.magicaltorque.desc": "Has a 30% chance to confuse the target.",
+  "cobblemon.move.combattorque": "Combat Torque",
+  "cobblemon.move.combattorque.desc": "Has a 30% chance to paralyze the target.",
+
 
   "cobblemon.pokedex.variation.outfit": "Outfits",
   "cobblemon.pokedex.variation.scarf": "Scarfs",
