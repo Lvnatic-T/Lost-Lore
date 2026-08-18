@@ -8,7 +8,9 @@
 - More information on Ange can be found on the Lost Lore mod page
 - Full Credit to the entire [Navas ZA Megas](https://modrinth.com/datapack/navas-zamega) Team for all assets!
 ## Smaller Additions, updates & fixes:
+- Fixed the Starmobiles signature moves not having proper names
 - Fixed a bug where Water Shuriken turns Greninja into a Substitute Doll
-- Fixed a visual bug with Shadow Mega Mewtwo Y _(when [Cosmetic Forms](https://modrinth.com/datapack/cosmetic-megas) is installed)_
+- ~~Fixed a visual bug with Shadow Mega Mewtwo Y _(when [Cosmetic Forms](https://modrinth.com/datapack/cosmetic-megas) is installed)_~~
 - Fixed the Crystalline description still saying it turns rock moves into steel-type instead of crystal
+- Fixed a bug that causes Keldeo to spam transform when holding the Pledge Fragment without knowing Secret Sword
 - Reorganized all lang files for better viewability _(still hoping for someone to add languages besides english/german LOL)_
