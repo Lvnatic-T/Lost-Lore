@@ -6,7 +6,7 @@
       "aspects": ["armored"],
       "poser": "cobblemon:mewtwo_ll",
       "model": "cobblemon:mewtwo_armored_ll.geo",
-      "texture": "cobblemon:textures/pokemon/0150_mewtwo/mewtwo_armored.png",
+      "texture": "cobblemon:textures/pokemon/0150_mewtwo/mewtwo_ll_armored.png",
       "layers": [
         {
           "name": "emissive",
@@ -16,7 +16,7 @@
     },
     {
       "aspects": ["armored", "shiny"],
-      "texture": "cobblemon:textures/pokemon/0150_mewtwo/mewtwo_armored_shiny.png",
+      "texture": "cobblemon:textures/pokemon/0150_mewtwo/mewtwo_ll_armored_shiny.png",
       "layers": [
         {
           "name": "emissive",

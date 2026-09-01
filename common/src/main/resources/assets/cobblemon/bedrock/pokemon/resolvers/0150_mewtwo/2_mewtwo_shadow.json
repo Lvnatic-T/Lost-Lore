@@ -24,7 +24,7 @@
           "name": "emissive",
           "emissive": true,
           "translucent": true,
-          "texture": "cobblemon:textures/pokemon/0150_mewtwo/mewtwo_shadow_emissive.png"
+          "texture": "cobblemon:textures/pokemon/0150_mewtwo/mewtwo_shadow_shiny_emissive.png"
         }
       ]
     },

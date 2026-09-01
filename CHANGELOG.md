@@ -7,6 +7,11 @@
 - Turn Eternal Floette into Ange by giving it the _"Light of Life"_ item to hold
 - More information on Ange can be found on the Lost Lore mod page
 - Full Credit to the entire [Navas ZA Megas](https://modrinth.com/datapack/navas-zamega) Team for all assets!
+## Some updates to Armored/Shadow Mewtwo:
+- Added physical & status animations
+- Updated faint & special animations
+- Updated shiny shadow eye colors
+- Renamed armored assets because E19 messed with them
 ## Smaller Additions, updates & fixes:
 - Fixed the Starmobiles signature moves not having proper names
 - Fixed a bug where Water Shuriken turns Greninja into a Substitute Doll
