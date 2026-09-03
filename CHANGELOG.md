@@ -10,8 +10,11 @@
 ## Some updates to Armored/Shadow Mewtwo:
 - Added physical & status animations
 - Updated faint & special animations
-- Updated shiny shadow eye colors
-- Renamed armored assets because E19 messed with them
+- Updated shiny Shadow eye colors
+- Changed order of Mewtwos forms in the Pokedex 
+  - It's now Base -> Shadow -> Armored -> X -> Shadow X -> Y -> Shadow Y
+  - Instead of Base -> X -> Y -> Armored -> Shadow -> Shadow X -> Shadow Y
+- Renamed Armored assets because E19 messed with them
 ## Smaller Additions, updates & fixes:
 - Fixed the Starmobiles signature moves not having proper names
 - Fixed a bug where Water Shuriken turns Greninja into a Substitute Doll

@@ -1,0 +1,51 @@
+{
+  "id": "cobblemon:mewtwo",
+  "speciesId": "cobblemon:mewtwo",
+  "displayAspects": [],
+  "conditionAspects": [],
+  "forms": [
+    {
+      "displayForm": "Normal",
+      "unlockForms": [
+        "Normal"
+      ]
+    },
+    {
+      "displayForm": "Shadow",
+      "unlockForms": [
+        "Shadow"
+      ]
+    },
+    {
+      "displayForm": "Armored",
+      "unlockForms": [
+        "Armored"
+      ]
+    },
+    {
+      "displayForm": "Mega-X",
+      "unlockForms": [
+        "Mega-X"
+      ]
+    },
+    {
+      "displayForm": "Mega-SX",
+      "unlockForms": [
+        "Mega-SX"
+      ]
+    },
+    {
+      "displayForm": "Mega-Y",
+      "unlockForms": [
+        "Mega-Y"
+      ]
+    },
+    {
+      "displayForm": "Mega-SY",
+      "unlockForms": [
+        "Mega-SY"
+      ]
+    }
+  ],
+  "variations": []
+}
