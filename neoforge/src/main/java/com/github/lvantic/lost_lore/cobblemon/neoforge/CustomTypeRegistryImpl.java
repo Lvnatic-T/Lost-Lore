@@ -22,8 +22,11 @@ public class CustomTypeRegistryImpl {
                 Component.translatable(lang),
                 hue,
                 0,
+                0,
+                0,
                 ResourceLocation.fromNamespaceAndPath(Cobblemon.MODID, "ui/types.png"),
-                id
+                id,
+                ResourceLocation.fromNamespaceAndPath(Cobblemon.MODID, id + "_gem")
         ));
 
         CustomTypeRegistry.customTypes.put(newType.getShowdownId(), newType);
