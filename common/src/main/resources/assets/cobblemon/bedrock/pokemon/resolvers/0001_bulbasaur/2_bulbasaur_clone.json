@@ -5,9 +5,8 @@
     {
       "aspects": ["clone"],
       "poser": "cobblemon:bulbasaur",
-      "model": "cobblemon:bulbasaur.geo",
-      "texture": "cobblemon:textures/pokemon/0001_bulbasaur/bulbasaur_clone.png",
-      "layers": []
+      "model": "cobblemon:bulbasaur_male.geo",
+      "texture": "cobblemon:textures/pokemon/0001_bulbasaur/bulbasaur_clone.png"
     },
     {
       "aspects": ["shiny", "clone"],

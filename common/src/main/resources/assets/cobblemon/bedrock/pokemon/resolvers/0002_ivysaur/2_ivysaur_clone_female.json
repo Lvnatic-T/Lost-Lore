@@ -4,11 +4,13 @@
   "variations": [
     {
       "aspects": ["female", "clone"],
-      "texture": "cobblemon:textures/pokemon/0002_ivysaur/ivysaur_clone_female.png"
+      "poser": "cobblemon:ivysaur",
+      "model": "cobblemon:ivysaur_female.geo",
+      "texture": "cobblemon:textures/pokemon/0002_ivysaur/ivysaur_clone.png"
     },
     {
       "aspects": ["shiny", "female", "clone"],
-      "texture": "cobblemon:textures/pokemon/0002_ivysaur/ivysaur_clone_female_shiny.png"
+      "texture": "cobblemon:textures/pokemon/0002_ivysaur/ivysaur_clone_shiny.png"
     }
   ]
 }

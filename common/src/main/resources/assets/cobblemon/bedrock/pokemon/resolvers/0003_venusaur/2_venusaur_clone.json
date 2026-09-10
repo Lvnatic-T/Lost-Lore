@@ -6,12 +6,11 @@
       "aspects": ["clone"],
       "poser": "cobblemon:venusaur",
       "model": "cobblemon:venusaur_male.geo",
-      "texture": "cobblemon:textures/pokemon/0003_venusaur/venusaur_clone_male.png",
-      "layers": []
+      "texture": "cobblemon:textures/pokemon/0003_venusaur/venusaur_clone.png"
     },
     {
       "aspects": ["shiny", "clone"],
-      "texture": "cobblemon:textures/pokemon/0003_venusaur/venusaur_clone_male_shiny.png"
+      "texture": "cobblemon:textures/pokemon/0003_venusaur/venusaur_clone_shiny.png"
     }
   ]
 }

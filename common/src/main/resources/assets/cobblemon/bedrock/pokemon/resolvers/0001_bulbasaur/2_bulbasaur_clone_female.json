@@ -4,11 +4,13 @@
   "variations": [
     {
       "aspects": ["female","clone"],
-      "texture": "cobblemon:textures/pokemon/0001_bulbasaur/bulbasaur_clone_female.png"
+      "poser": "cobblemon:bulbasaur",
+      "model": "cobblemon:bulbasaur_female.geo",
+      "texture": "cobblemon:textures/pokemon/0001_bulbasaur/bulbasaur_clone.png"
     },
     {
       "aspects": ["shiny", "female", "clone"],
-      "texture": "cobblemon:textures/pokemon/0001_bulbasaur/bulbasaur_clone_female_shiny.png"
+      "texture": "cobblemon:textures/pokemon/0001_bulbasaur/bulbasaur_clone_shiny.png"
     }
   ]
 }

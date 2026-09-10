@@ -3,19 +3,13 @@
   "order": 11,
   "variations": [
     {
-      "aspects": [
-        "cosmetic_item-mega",
-        "clone"
+      "aspects": ["cosmetic_item-mega", "clone"
       ],
       "model": "cobblemon:venusaurmega_clone.geo",
       "texture": "cobblemon:textures/pokemon/0003_venusaur/venusaur_clone_mega.png"
     },
     {
-      "aspects": [
-        "cosmetic_item-mega",
-        "shiny",
-        "clone"
-      ],
+      "aspects": ["cosmetic_item-mega", "shiny", "clone"],
       "texture": "cobblemon:textures/pokemon/0003_venusaur/venusaur_clone_mega_shiny.png"
     }
   ]

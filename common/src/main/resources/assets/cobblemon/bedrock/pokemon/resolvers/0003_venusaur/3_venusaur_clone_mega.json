@@ -3,20 +3,12 @@
   "order": 3,
   "variations": [
     {
-      "aspects": [
-        "mega",
-        "clone"
-      ],
+      "aspects": ["mega", "clone"],
       "model": "cobblemon:venusaurmega_clone.geo",
-      "texture": "cobblemon:textures/pokemon/0003_venusaur/venusaur_clone_mega.png",
-      "layers": []
+      "texture": "cobblemon:textures/pokemon/0003_venusaur/venusaur_clone_mega.png"
     },
     {
-      "aspects": [
-        "mega",
-        "shiny",
-        "clone"
-      ],
+      "aspects": ["mega", "shiny", "clone"],
       "texture": "cobblemon:textures/pokemon/0003_venusaur/venusaur_clone_mega_shiny.png"
     }
   ]

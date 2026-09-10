@@ -5,9 +5,8 @@
     {
       "aspects": ["clone"],
       "poser": "cobblemon:ivysaur",
-      "model": "cobblemon:ivysaur.geo",
-      "texture": "cobblemon:textures/pokemon/0002_ivysaur/ivysaur_clone.png",
-      "layers": []
+      "model": "cobblemon:ivysaur_male.geo",
+      "texture": "cobblemon:textures/pokemon/0002_ivysaur/ivysaur_clone.png"
     },
     {
       "aspects": ["shiny", "clone"],

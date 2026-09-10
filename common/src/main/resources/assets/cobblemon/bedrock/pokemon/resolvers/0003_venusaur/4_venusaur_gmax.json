@@ -3,20 +3,13 @@
   "order": 4,
   "variations": [
     {
-      "aspects": [
-        "gmax",
-        "clone"
-      ],
+      "aspects": ["gmax", "clone"],
       "poser": "cobblemon:venusaur_gigantamax",
       "model": "cobblemon:venusaur_clone_gmax.geo",
       "texture": "cobblemon:textures/pokemon/0003_venusaur/venusaur_clone_gmax.png"
     },
     {
-      "aspects": [
-        "gmax",
-        "clone",
-        "shiny"
-      ],
+      "aspects": ["gmax", "clone", "shiny"],
       "texture": "cobblemon:textures/pokemon/0003_venusaur/venusaur_clone_gmax_shiny.png"
     }
   ]
