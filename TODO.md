@@ -8,8 +8,8 @@
 - Crystal Gem js is cystal gem still - look into overflow
 - ~~Update Mewtwo~~
 - Update Venusaur & Blastoise megas to account for the new MSD models
-- Wait for Yajats commit for the Type Gem blocks and buds
-- Fix `firstPersonCameraOffset` for forms & fix Starmobiles
+- ~~Wait for Yajats commit for the Type Gem blocks and buds~~
+- ~~Fixed third camera offsets for the Starmobiles~~
 
 
 ## Pokémon additions:

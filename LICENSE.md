@@ -25,11 +25,10 @@ You may:
 
 - Install & use the Licensed Content for personal use.
 - Use the Licensed Content on  Minecraft Java Edition servers.
-- Use the Licensed Content on commercial or monetized Minecraft Java Edition servers as permitted under Section 8.
+- Use the Licensed Content on monetized Minecraft Java Edition servers as permitted under Section 8.
 - Include the Licensed Content in Minecraft Java Edition modpacks in accordance with Sections 3, 4, & 5.
 - Modify the Licensed Content for private use.
 - Create & publicly distribute forks, modified versions, derivative addons, or other derivative works only with explicit permission from the Licensor and in accordance with Section 6.
-- Create, publish, & monetize content featuring the Licensed Content as permitted under Section 9.
 - Make any other use that is expressly permitted by this license.
 
 All permissions granted under this section remain subject to the restrictions & conditions described elsewhere in this license.

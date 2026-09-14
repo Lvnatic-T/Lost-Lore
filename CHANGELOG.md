@@ -17,6 +17,7 @@
   - Instead of Base -> X -> Y -> Armored -> Shadow -> Shadow X -> Shadow Y
 - Renamed Armored assets because E19 messed with them
 ## Smaller Additions, updates & fixes:
+- Fixed third camera offsets for the Starmobiles
 - Fixed the Starmobiles signature moves not having proper names
 - Fixed a bug where Water Shuriken turns Greninja into a Substitute Doll
 - ~~Fixed a visual bug with Shadow Mega Mewtwo Y _(when [Cosmetic Forms](https://modrinth.com/datapack/cosmetic-megas) is installed)_~~
