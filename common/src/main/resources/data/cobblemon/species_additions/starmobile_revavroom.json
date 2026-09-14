@@ -59,7 +59,7 @@
             "stats": {
               "ACCELERATION": "40-60",
               "JUMP": "5-15",
-              "SKILL": "15-35",
+              "SKILL": "5-20",
               "SPEED": "85-105",
               "STAMINA": "105-125"
             }
@@ -235,7 +235,7 @@
             "stats": {
               "ACCELERATION": "40-60",
               "JUMP": "5-15",
-              "SKILL": "15-35",
+              "SKILL": "5-20",
               "SPEED": "85-105",
               "STAMINA": "105-125"
             }
@@ -409,7 +409,7 @@
             "stats": {
               "ACCELERATION": "40-60",
               "JUMP": "5-15",
-              "SKILL": "15-35",
+              "SKILL": "5-20",
               "SPEED": "85-105",
               "STAMINA": "105-125"
             }
@@ -585,7 +585,7 @@
             "stats": {
               "ACCELERATION": "40-60",
               "JUMP": "5-15",
-              "SKILL": "15-35",
+              "SKILL": "5-20",
               "SPEED": "85-105",
               "STAMINA": "105-125"
             }
@@ -760,7 +760,7 @@
             "stats": {
               "ACCELERATION": "40-60",
               "JUMP": "5-15",
-              "SKILL": "15-35",
+              "SKILL": "5-20",
               "SPEED": "85-105",
               "STAMINA": "105-125"
             }

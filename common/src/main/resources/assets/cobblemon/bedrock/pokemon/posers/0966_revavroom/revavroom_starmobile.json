@@ -5,19 +5,19 @@
   "profileTranslation": [-0.02, 1.22, 0],
   "rootBone": "revavroom_starmobile",
   "firstPersonCameraOffset": {
-    "seat_1": [0, 2.45, 0],
-    "seat_2": [0, 2.45, 0],
-    "seat_3": [0, 2.45, 0],
-    "seat_4": [0, 2.45, 0]
+    "seat_1": [0, 0.15, 0],
+    "seat_2": [0, 0.15, 0],
+    "seat_3": [0, 0.15, 0],
+    "seat_4": [0, 0.15, 0]
   },
   "thirdPersonCameraOffset": {
-    "seat_1": [0, 0.5, 1],
+    "seat_1": [0, 3.5, 4],
     "seat_1_reverse": [0, 0.5, 1],
     "seat_2": [0, 0.5, 1],
-    "seat_2_reverse": [0, 0.5, 1],
-    "seat_3": [0, 0.5, 1],
+    "seat_2_reverse": [0, 0.0, 0],
+    "seat_3": [0, 2.5, 4],
     "seat_3_reverse": [0, 0.5, 1],
-    "seat_4": [0, 0.5, 1],
+    "seat_4": [0, 3.5, 4],
     "seat_4_reverse": [0, 0.5, 1]
   },
   "thirdPersonCameraOffsetNoViewBobbing": {
