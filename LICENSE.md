@@ -1,6 +1,6 @@
 # Lvnatic's General license
 
-**Version 1.1**\
+**Version 1.2**\
 Copyright © 2026 Lvnatic
 
 This license applies to any creation that lists this license as its license, together with its associated files, assets, documentation, & other original content covered by this license (collectively, the **"Licensed Content"**) & distributed by **Lvnatic** (the **"Licensor"**).
@@ -142,7 +142,7 @@ A server may generate revenue while using the Licensed Content, including throug
 - Sponsorships
 - Other similar forms of server monetization
 
-However, the Licensed Content itself may not be sold, paywalled, sublicensed, rented, licensed for a fee, or otherwise offered in exchange for payment.
+However, the Licensed Content itself may not be sold in said revenue streams, paywalled, sublicensed, rented, licensed for a fee, or otherwise offered in exchange for payment.
 
 You may not require payment specifically to obtain, download, unlock, or gain access to the Licensed Content itself.
 
@@ -152,7 +152,7 @@ All commercial server use remains subject to the other terms & restrictions of t
 
 You may freely create, publish, & monetize content featuring the Licensed Content without obtaining additional permission from the Licensor including, but is not limited to:
 
-- Livestreams&#x20;
+- Livestreams
 - Screenshots
 - Reviews
 - Tutorials & guides

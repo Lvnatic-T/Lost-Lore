@@ -33,6 +33,7 @@ public class ModItemModelProvider extends ItemModelProvider {
         basicItem(LLItems.LIGHT_OF_LIFE.get());
 
         basicItem(LLItems.CRYSTALLINE_STEELIXITE.get());
+        basicItem(LLItems.MEWTWONITE_A.get());
         basicItem(LLItems.SHADOW_MEWTWONITE_X.get());
         basicItem(LLItems.SHADOW_MEWTWONITE_Y.get());
         basicItem(LLItems.SLOWBROGONITE.get());

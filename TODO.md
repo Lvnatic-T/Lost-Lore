@@ -11,6 +11,14 @@
 - ~~Wait for Yajats commit for the Type Gem blocks and buds~~
 - ~~Fixed third camera offsets for the Starmobiles~~
 
+## Mega Armored Mewtwo
+- ~~Make Poser~~ 
+- ~~Signature move name change in poser~~
+- ~~Make signature move~~
+- Maybe think of another ability or a custom one
+- ~~Implement assets~~
+- Review stats
+- ~~Implement Mewtwonite A recipe~~
 
 ## Pokémon additions:
 - [Venustoise](https://www.pokeos.com/de/db/forgotten-dex/main?open=3-venustoise)

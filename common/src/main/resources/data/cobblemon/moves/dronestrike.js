@@ -1,0 +1,16 @@
+{
+    num: 30103,
+    accuracy: 100,
+	basePower: 100,
+	category: "Physical",
+	name: "Drone Strike",
+	pp: 5,
+	priority: 0,
+	flags: {protect: 1, mirror: 1, bypasssub: 1},
+	breaksProtect: true,
+	noSketch: true,
+	secondary: null,
+	target: "normal",
+	type: "Steel",
+	contestType: "Clever",
+}

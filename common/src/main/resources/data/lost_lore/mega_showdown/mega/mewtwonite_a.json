@@ -1,0 +1,16 @@
+{
+  "showdown_id": "mewtwonitea",
+  "pokemons": ["Mewtwo"],
+  "aspect_conditions": {
+    "apply": {
+      "aspects": ["mega_evolution=mega"],
+      "aspect": {
+          "required_aspects": [["armored"]],
+          "blacklist_aspects": [["shadows"]]
+        }
+     },
+    "revert": {
+      "aspects": ["mega_evolution=none"]
+    }
+  }
+}

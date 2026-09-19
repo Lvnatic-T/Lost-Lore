@@ -7,6 +7,10 @@
     {
       "displayForm": "Armored",
       "unlockForms": ["armored"]
+    },
+    {
+      "displayForm": "Mega-Armored",
+      "unlockForms": ["mega-armored"]
     }
   ],
   "variations": []

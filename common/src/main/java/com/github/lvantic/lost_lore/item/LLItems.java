@@ -18,6 +18,7 @@ public class LLItems {
 
     //Mega
     public static RegistrySupplier<Item> CRYSTALLINE_STEELIXITE = registerMegaStone("crystalline_steelixite");
+    public static RegistrySupplier<Item> MEWTWONITE_A = registerMegaStone("mewtwonite_a");
     public static RegistrySupplier<Item> SHADOW_MEWTWONITE_X = registerMegaStone("shadow_mewtwonite_x");
     public static RegistrySupplier<Item> SHADOW_MEWTWONITE_Y = registerMegaStone("shadow_mewtwonite_y");
     public static RegistrySupplier<Item> SLOWBROGONITE = registerMegaStone("slowbrogonite");

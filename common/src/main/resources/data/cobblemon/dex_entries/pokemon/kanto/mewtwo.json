@@ -6,45 +6,35 @@
   "forms": [
     {
       "displayForm": "Normal",
-      "unlockForms": [
-        "Normal"
-      ]
+      "unlockForms": ["Normal"]
     },
     {
       "displayForm": "Shadow",
-      "unlockForms": [
-        "Shadow"
-      ]
+      "unlockForms": ["Shadow"]
     },
     {
       "displayForm": "Armored",
-      "unlockForms": [
-        "Armored"
-      ]
+      "unlockForms": ["Armored"]
     },
     {
       "displayForm": "Mega-X",
-      "unlockForms": [
-        "Mega-X"
-      ]
+      "unlockForms": ["Mega-X"]
     },
     {
       "displayForm": "Mega-SX",
-      "unlockForms": [
-        "Mega-SX"
-      ]
+      "unlockForms": ["Mega-SX"]
     },
     {
       "displayForm": "Mega-Y",
-      "unlockForms": [
-        "Mega-Y"
-      ]
+      "unlockForms": ["Mega-Y"]
     },
     {
       "displayForm": "Mega-SY",
-      "unlockForms": [
-        "Mega-SY"
-      ]
+      "unlockForms": ["Mega-SY"]
+    },
+    {
+      "displayForm": "Mega-Armored",
+      "unlockForms": ["Mega-Armored"]
     }
   ],
   "variations": []

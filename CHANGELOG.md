@@ -1,26 +1,30 @@
 # Changelog v3.1.0
 ## Updated for Cobblemon 1.8+ & Mega Showdown 1.0.2+
-## Added Ange FLoette!
+## Added Ange Floette!
 - The iconic final boss from Legends ZAs story
 - Ported over and reworked from Navas _(since it got removed)_
 - Gave it its own unique ability - Eternal Bloom _(yeah it's kinda busted)_
 - Features an astounding 900 BST _(reduced it a bit compared to Navas)_
 - Turn Eternal Floette into Ange by giving it the _"Light of Life"_ item to hold
 - More information on Ange can be found on the Lost Lore mod page
-- Full Credit to the entire [Navas ZA Megas](https://modrinth.com/datapack/navas-zamega) Team for all assets!
-## Some updates to Armored/Shadow Mewtwo:
+- Full Credit to the entire [Navas ZA Megas](https://modrinth.com/datapack/navas-zamega) Team for all assets! _(I don't know who specifically did it so might as well shoutout ALL of them!)_
+## Some updates to Mewtwo:
 - Updated shiny Shadow eye colors
 - Updated faint & special animations
-- Added physical & status animations
-- Changed order of Mewtwos forms in the Pokedex 
-  - It's now Base -> Shadow -> Armored -> X -> Shadow X -> Y -> Shadow Y
-  - Instead of Base -> X -> Y -> Armored -> Shadow -> Shadow X -> Shadow Y
-- Renamed Armored assets because E19 messed with them
+- Added physical & status move animations
+## Armored Mewtwo rework & Mega Armored Mewtwo
+- Renamed assets because E19 messed with them
+- Completely reworked armored Mewtwo's stats & ability
+- Added a mega evolution you can trigger with Mewtwonite A!
+- Added a completely new signature move called Drone Strike
+- The Mega is based on the _(heavily)_ armored Mewtwo from Pokémon Go
+- More information on the new Mega & changes can be found on the Lost Lore mod page
 ## Smaller Additions, updates & fixes:
 - Fixed third camera offsets for the Starmobiles
+- Updated the order of Mewtwos forms in the Pokedex
 - Fixed the Starmobiles signature moves not having proper names
 - Fixed a bug where Water Shuriken turns Greninja into a Substitute Doll
-- ~~Fixed a visual bug with Shadow Mega Mewtwo Y _(when [Cosmetic Forms](https://modrinth.com/datapack/cosmetic-megas) is installed)_~~
+- Fixed a visual bug with Shadow Mega Mewtwo Y _(when [Cosmetic Forms](https://modrinth.com/datapack/cosmetic-megas) is installed)_
 - Fixed the Crystalline description still saying it turns rock moves into steel-type instead of crystal
 - Fixed a bug that causes Keldeo to spam transform when holding the Pledge Fragment without knowing Secret Sword
 - Reorganized all lang files for better viewability _(still hoping for someone to add languages besides english/german LOL)_

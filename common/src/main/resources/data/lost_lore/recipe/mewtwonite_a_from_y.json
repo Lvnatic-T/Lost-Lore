@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " c ",
+    "brb",
+    " i "
+  ],
+  "key": {
+    "c": {
+      "item": "lost_lore:binding_armor"
+    },
+    "r": {
+      "item": "mega_showdown:mewtwonite_y"
+    },
+    "b": {
+      "item": "minecraft:iron_ingot"
+    },
+    "i": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "id": "lost_lore:mewtwonite_a"
+  }
+}
