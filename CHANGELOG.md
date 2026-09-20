@@ -20,8 +20,9 @@
 - The Mega is based on the _(heavily)_ armored Mewtwo from Pokémon Go
 - More information on the new Mega & changes can be found on the Lost Lore mod page
 ## Smaller Additions, updates & fixes:
+- All Starter Clones now have red eyes
 - Fixed third camera offsets for the Starmobiles
-- Updated the order of Mewtwos forms in the Pokedex
+- Updated the order of Mewtwo's forms in the Pokedex
 - Fixed the Starmobiles signature moves not having proper names
 - Fixed a bug where Water Shuriken turns Greninja into a Substitute Doll
 - Fixed a visual bug with Shadow Mega Mewtwo Y _(when [Cosmetic Forms](https://modrinth.com/datapack/cosmetic-megas) is installed)_
