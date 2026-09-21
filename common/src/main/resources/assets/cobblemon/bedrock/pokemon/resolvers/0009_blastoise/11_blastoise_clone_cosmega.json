@@ -3,20 +3,14 @@
   "order": 11,
   "variations": [
     {
-      "aspects": [
-        "cosmetic_item-mega",
-        "clone"
-      ],
-      "model": "cobblemon:blastoise_clone_mega.geo",
+      "aspects": ["cosmetic_item-mega", "clone"],
+      "model": "cobblemon:blastoise_mega.geo",
+      "poser": "cobblemon:blastoise_mega",
       "texture": "cobblemon:textures/pokemon/0009_blastoise/blastoise_clone_mega.png"
     },
     {
-      "aspects": [
-        "cosmetic_item-mega",
-        "shiny",
-        "clone"
-      ],
-      "texture": "cobblemon:textures/pokemon/0009_blastoise/blastoise_clone_shiny_mega.png"
+      "aspects": ["cosmetic_item-mega", "shiny", "clone"],
+      "texture": "cobblemon:textures/pokemon/0009_blastoise/blastoise_clone_mega_shiny.png"
     }
   ]
 }

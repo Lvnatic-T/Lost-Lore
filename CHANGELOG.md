@@ -23,6 +23,7 @@
 - All Starter Clones now have red eyes
 - Fixed third camera offsets for the Starmobiles
 - Updated the order of Mewtwo's forms in the Pokedex
+- Updated Venusaur & Blastoise Clone Megas to new models
 - Fixed the Starmobiles signature moves not having proper names
 - Fixed a bug where Water Shuriken turns Greninja into a Substitute Doll
 - Fixed a visual bug with Shadow Mega Mewtwo Y _(when [Cosmetic Forms](https://modrinth.com/datapack/cosmetic-megas) is installed)_

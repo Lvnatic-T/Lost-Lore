@@ -1,10 +1,10 @@
 # To-do List:
 ## For next update:
 - Add recipe for Light of Life - maybe?
-- ~~Crystal Gem js is cystal gem still~~ - look into overflow
+- ~~Crystal Gem js is cystal gem still - look into overflow~~
 - ~~Update Mewtwo~~
 - ~~Wait for Yajats commit for the Type Gem blocks and buds~~
-- Update Venusaur & Blastoise megas to account for the new MSD models
+- ~~Update Venusaur & Blastoise megas to account for the new MSD models~~
 
 
 ## Mega Armored Mewtwo

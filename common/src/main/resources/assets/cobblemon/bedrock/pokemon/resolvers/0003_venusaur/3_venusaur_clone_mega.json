@@ -4,7 +4,8 @@
   "variations": [
     {
       "aspects": ["mega", "clone"],
-      "model": "cobblemon:venusaurmega_clone.geo",
+      "model": "cobblemon:venusaurmega.geo",
+      "poser": "cobblemon:venusaurmega",
       "texture": "cobblemon:textures/pokemon/0003_venusaur/venusaur_clone_mega.png"
     },
     {
