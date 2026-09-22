@@ -1,19 +1,8 @@
 # To-do List:
 ## For next update:
-- Add recipe for Light of Life - maybe?
-- ~~Crystal Gem js is cystal gem still - look into overflow~~
-- ~~Update Mewtwo~~
-- ~~Wait for Yajats commit for the Type Gem blocks and buds~~
-- ~~Update Venusaur & Blastoise megas to account for the new MSD models~~
-- ~~Rework some of the spawns to be herd/alpha spawns~~ (MT/MT2/Ttar alpha chance, Black Fog herd & alpha, maybe snowman snorlax herd/alpha)
-
+- recolor shadow gem
 
 ## Mega Armored Mewtwo
-- ~~Make Poser~~ 
-- ~~Signature move name change in poser~~
-- ~~Make signature move~~
-- ~~Implement assets~~
-- ~~Implement Mewtwonite A recipe~~
 - Maybe think of another ability or a custom one
 - Review stats
 

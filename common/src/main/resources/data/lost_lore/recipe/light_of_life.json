@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DNF",
+    "NWN",
+    "FND"
+  ],
+  "key": {
+    "W": {
+      "item": "mega_showdown:wishing_star"
+    },
+    "N": {
+      "item": "minecraft:nether_star"
+    },
+    "F": {
+      "item": "cobblemon:fairy_gem"
+    },
+    "D": {
+      "item": "cobblemon:dark_gem"
+    }
+  },
+  "result": {
+    "id": "lost_lore:light_of_life",
+    "count": 1
+  }
+}

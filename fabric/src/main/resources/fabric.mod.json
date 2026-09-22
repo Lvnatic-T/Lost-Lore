@@ -21,7 +21,7 @@
   "contact": {
     "homepage": "https://github.com/Lvnatic-T/Lost-Lore"
   },
-  "license": "CC-BY-NC-SA-4.0",
+  "license": "Lvnatic's General license",
   "icon": "assets/lost_lore/icon.png",
   "environment": "*",
   "entrypoints": {

@@ -1,7 +1,7 @@
 modLoader = "javafml"
 loaderVersion = "[2,)"
 #issueTrackerURL = ""
-license = "CC-BY-NC-SA-4.0"
+license = "Lvnatic's General license"
 
 [[mods]]
 modId = "lost_lore"
