@@ -27,6 +27,17 @@
           "texture": "cobblemon:textures/pokemon/1099_blackfog/blackfog_emissive_shiny.png"
         }
       ]
+    },
+    {
+      "aspects": ["alpha_eyes"],
+      "layers": [
+        {
+          "name": "alpha_eyes",
+          "translucent": true,
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/1099_blackfog/blackfog_alpha.png"
+        }
+      ]
     }
   ]
 }
