@@ -4,16 +4,16 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "black-tyranitar-1T",
+      "id": "black-tyranitar-alpha-1T",
       "pokemon": "tyranitar black=true min_perfect_ivs=6",
       "presets": [
         "natural"
       ],
       "type": "pokemon",
       "context": "grounded",
-      "bucket": "ultra-rare",
+      "bucket": "boss",
       "level": "100",
-      "weight": 1.0,
+      "weight": 65.0,
       "condition": {
         "biomes": [
           "#cobblemon:is_overworld"

@@ -5,6 +5,7 @@
 - ~~Update Mewtwo~~
 - ~~Wait for Yajats commit for the Type Gem blocks and buds~~
 - ~~Update Venusaur & Blastoise megas to account for the new MSD models~~
+- ~~Rework some of the spawns to be herd/alpha spawns~~ (MT/MT2/Ttar alpha chance, Black Fog herd & alpha, maybe snowman snorlax herd/alpha)
 
 
 ## Mega Armored Mewtwo

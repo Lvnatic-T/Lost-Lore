@@ -1,0 +1,128 @@
+{
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "blackfog-herd-1",
+      "presets": [
+        "ancient_city"
+      ],
+      "type": "pokemon-herd",
+      "bucket": "ultra-rare",
+      "spawnablePositionType": "grounded",
+      "minHerdSize": 6,
+      "maxHerdSize": 8,
+      "levelRange": "34-100",
+      "weight": 55.0,
+      "weightMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "timeRange": "night"
+          }
+        },
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "isRaining": true
+          }
+        },
+        {
+          "multiplier": 2.5,
+          "condition": {
+            "isThundering": true
+          }
+        }
+      ],
+      "condition": {
+        "minSkyLight": 0,
+        "maxSkyLight": 0,
+        "biomes": [
+          "#cobblemon:is_overworld"
+        ]
+      },
+      "herdablePokemon": [
+        {
+          "pokemon": "blackfog min_perfect_ivs=3",
+          "weight": 1.0,
+          "levelRange": "65-100",
+          "minTimes": 1,
+          "maxTimes": 1,
+          "isLeader": true,
+          "isFollower": false
+        },
+        {
+          "pokemon": "gastly",
+          "weight": 1.0,
+          "levelRange": "9-28",
+          "levelRangeOffset": "-3-3",
+          "minTimes": 5,
+          "maxTimes": 7,
+          "isLeader": false,
+          "isFollower": true
+        }
+      ]
+    },
+    {
+      "id": "blackfog-alpha-1",
+      "presets": [
+        "ancient_city"
+      ],
+      "type": "pokemon-herd",
+      "bucket": "boss",
+      "spawnablePositionType": "grounded",
+      "minHerdSize": 6,
+      "maxHerdSize": 8,
+      "levelRange": "34-100",
+      "weight": 75.0,
+      "weightMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "timeRange": "night"
+          }
+        },
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "isRaining": true
+          }
+        },
+        {
+          "multiplier": 2.5,
+          "condition": {
+            "isThundering": true
+          }
+        }
+      ],
+      "condition": {
+        "minSkyLight": 0,
+        "maxSkyLight": 0,
+        "biomes": [
+          "#cobblemon:is_overworld"
+        ]
+      },
+      "herdablePokemon": [
+        {
+          "pokemon": "blackfog held_item=cobblemon:ghost_gem min_perfect_ivs=3 alpha=true",
+          "weight": 1.0,
+          "levelRange": "65-100",
+          "minTimes": 1,
+          "maxTimes": 1,
+          "isLeader": true,
+          "isFollower": false
+        },
+        {
+          "pokemon": "gastly",
+          "weight": 1.0,
+          "levelRange": "9-28",
+          "levelRangeOffset": "-3-3",
+          "minTimes": 5,
+          "maxTimes": 7,
+          "isLeader": false,
+          "isFollower": true
+        }
+      ]
+    }
+  ]
+}

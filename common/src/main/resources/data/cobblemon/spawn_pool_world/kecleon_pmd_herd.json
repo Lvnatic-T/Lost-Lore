@@ -12,7 +12,7 @@
       "spawnablePositionType": "grounded",
       "bucket": "uncommon",
       "levelRange": "19-44",
-      "weight": 10.0,
+      "weight": 100.0,
       "maxHerdSize": 2,
       "minDistanceBetweenSpawns": 1.25,
       "herdablePokemon": [
