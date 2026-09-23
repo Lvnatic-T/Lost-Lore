@@ -3,9 +3,6 @@ package com.github.lvantic.lost_lore.pokeball;
 import com.cobblemon.mod.common.pokeball.PokeBall;
 import com.cobblemon.mod.common.api.pokeball.PokeBalls;
 import com.cobblemon.mod.common.api.pokeball.catching.CatchRateModifier;
-import com.cobblemon.mod.common.item.PokeBallItem;
-import net.minecraft.core.Registry;
-import net.minecraft.core.registries.BuiltInRegistries;
 import net.minecraft.resources.ResourceLocation;
 
 import java.lang.reflect.Field;
@@ -65,10 +62,9 @@ public final class LostLorePokeBallHelper {
 
         getPokeBallRegistry().put(id, pokeBall);
 
-        pokeBall.item = Registry.register(
-                BuiltInRegistries.ITEM,
-                id,
-                new PokeBallItem(pokeBall)
+        LostLorePokeBallRegistry.registerItem(
+                id.getPath(),
+                pokeBall
         );
 
         return pokeBall;

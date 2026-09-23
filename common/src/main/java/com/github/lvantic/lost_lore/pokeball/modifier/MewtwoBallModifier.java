@@ -24,8 +24,7 @@ public class MewtwoBallModifier implements CatchRateModifier {
          * effectively doesn't influence the catch chance.
          */
         float hpCompensation =
-                (3.0F * maxHp) /
-                        ((3.0F * maxHp) - (2.0F * currentHp));
+                (3.0F * maxHp) / ((3.0F * maxHp) - (2.0F * currentHp));
 
         return BASE_MODIFIER * hpCompensation;
     }

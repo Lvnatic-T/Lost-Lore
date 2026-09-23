@@ -1,6 +1,12 @@
 # To-do List:
 ## For next update:
 - recolor shadow gem
+- Add picture of Ange on Modrinth
+- Fix Poser for Ange (Portrait & Profile)
+- Fix Venusaur clone riding?
+- implement ball assets
+- add more balls?
+
 
 ## Mega Armored Mewtwo
 - Maybe think of another ability or a custom one
