@@ -14,7 +14,7 @@ public class MewtwoBallModifier implements CatchRateModifier {
             @NotNull LivingEntity thrower,
             @NotNull Pokemon pokemon
     ) {
-        float maxHp = pokemon.getHp();
+        float maxHp = pokemon.getMaxHealth();
         float currentHp = pokemon.getCurrentHealth();
 
         /*
