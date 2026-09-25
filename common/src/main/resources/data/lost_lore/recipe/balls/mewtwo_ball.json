@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "ultra_balls",
+  "pattern": [
+    "sbs",
+    "bcb",
+    " b "
+  ],
+  "key": {
+    "b": {
+      "item": "cobblemon:black_apricorn"
+    },
+    "s": {
+      "item": "minecraft:shulker_shell"
+    },
+    "c": {
+      "tag": "cobblemon:tier_4_poke_ball_materials"
+    }
+  },
+  "result": {
+    "count": 8,
+    "id": "lost_lore:mewtwo_ball"
+  }
+}

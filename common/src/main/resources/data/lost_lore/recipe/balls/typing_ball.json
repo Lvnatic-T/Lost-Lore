@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "ultra_balls",
+  "pattern": [
+    " s ",
+    "scs",
+    " b "
+  ],
+  "key": {
+    "b": {
+      "item": "cobblemon:yellow_apricorn"
+    },
+    "s": {
+      "item": "minecraft:blue_apricorn"
+    },
+    "c": {
+      "tag": "cobblemon:tier_2_poke_ball_materials"
+    }
+  },
+  "result": {
+    "count": 4,
+    "id": "lost_lore:typing_ball"
+  }
+}
