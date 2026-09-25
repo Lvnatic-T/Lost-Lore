@@ -6,6 +6,7 @@
 - Fix Venusaur clone riding?
 - implement ball assets
 - add more balls?
+- Remake all mega stones - thanks sanji
 
 
 ## Mega Armored Mewtwo

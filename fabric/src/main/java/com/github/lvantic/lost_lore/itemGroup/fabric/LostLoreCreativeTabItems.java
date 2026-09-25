@@ -10,22 +10,20 @@ import net.minecraft.world.item.Item;
 public final class LostLoreCreativeTabItems {
 
     private static final ResourceLocation MEWTWO_BALL =
-            ResourceLocation.fromNamespaceAndPath(
-                    LostLore.MOD_ID,
-                    "mewtwo_ball"
-            );
+            ResourceLocation.fromNamespaceAndPath(LostLore.MOD_ID, "mewtwo_ball");
+
+    private static final ResourceLocation TYPING_BALL =
+            ResourceLocation.fromNamespaceAndPath(LostLore.MOD_ID, "typing_ball");
 
     private LostLoreCreativeTabItems() {}
 
     public static void register() {
-        ItemGroupEvents.modifyEntriesEvent(
-                LLTabs.MAIN_TAB.getKey()
-        ).register(entries -> {
-
-            Item mewtwoBall =
-                    BuiltInRegistries.ITEM.get(MEWTWO_BALL);
+        ItemGroupEvents.modifyEntriesEvent(LLTabs.MAIN_TAB.getKey()).register(entries -> {
+            Item mewtwoBall = BuiltInRegistries.ITEM.get(MEWTWO_BALL);
+            Item typingBall = BuiltInRegistries.ITEM.get(TYPING_BALL);
 
             entries.accept(mewtwoBall);
+            entries.accept(typingBall);
         });
     }
 }

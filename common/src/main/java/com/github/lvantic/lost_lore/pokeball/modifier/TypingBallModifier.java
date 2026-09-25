@@ -2,22 +2,25 @@ package com.github.lvantic.lost_lore.pokeball.modifier;
 
 import com.cobblemon.mod.common.api.pokeball.catching.CatchRateModifier;
 import com.cobblemon.mod.common.pokemon.Pokemon;
+import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.entity.LivingEntity;
 import org.jetbrains.annotations.NotNull;
 
-public class MewtwoBallModifier implements CatchRateModifier {
+public class TypingBallModifier implements CatchRateModifier {
 
-    private static final float BASE_MODIFIER = 2.0F;
+    private static final float BASE_MODIFIER = 1.0F;
+    private static final float UNOWN_MODIFIER = 5.0F;
+
+    private static final ResourceLocation UNOWN =
+            ResourceLocation.fromNamespaceAndPath("cobblemon", "unown");
 
     @Override
     public float value(@NotNull LivingEntity thrower, @NotNull Pokemon pokemon) {
-        float maxHp = pokemon.getMaxHealth();
-        float currentHp = pokemon.getCurrentHealth();
+        if (pokemon.getSpecies().getResourceIdentifier().equals(UNOWN)) {
+            return UNOWN_MODIFIER;
+        }
 
-        float hpCompensation =
-                (3.0F * maxHp) / ((3.0F * maxHp) - (2.0F * currentHp));
-
-        return BASE_MODIFIER * hpCompensation;
+        return BASE_MODIFIER;
     }
 
     @Override

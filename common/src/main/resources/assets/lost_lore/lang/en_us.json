@@ -29,6 +29,7 @@
     "item.lost_lore.shadowium_z": "Shadowium-Z",
     "item.lost_lore.slowbrogonite": "Slowbrogonite",
     "item.lost_lore.time_gear": "§dTime Gear§r",
+    "item.lost_lore.typing_ball": "Typing Ball",
     "item.lost_lore.water_shuriken": "§dWater Shuriken§r",
 
     "tooltip.lost_lore.light_of_life.tooltip": "§7A fragment once unleashed by the Ultimate Weapon. It resonates only with Eternal Flowers§r",
@@ -44,7 +45,7 @@
     "tooltip.lost_lore.dream_catcher.tooltip": "§7An Item associated with Mismagius which allows it to possess the power of dreams and fuse with Rayquaza§r",
     "tooltip.lost_lore.green_scarf.tooltip": "§7A scarf typically worn by the Mystery Dungeon Team§r",
     "tooltip.lost_lore.magical_music_sheet.tooltip": "§7A magical Music Sheet that allows you to change the appearance of Meloetta§r",
-    "tooltip.lost_lore.mewtwo_ball": "2× catch rate, skipping the current HP calculation for the target",
+    "tooltip.lost_lore.mewtwo_ball": "Its catch rate is unaffected by the targets remaining HP",
     "tooltip.lost_lore.mewtwonite_a.tooltip": "§7This Megastone allows Armored Mewtwo to Mega Evolve into its Armored Mega§r",
     "tooltip.lost_lore.pledge_fragment.tooltip": "§7A piece of a rock where pledges are made. It has a strange effect on Keldeo§r",
     "tooltip.lost_lore.project_star_kit.tooltip": "§7A Box filled with modifications for Revavroom§r",
@@ -57,5 +58,6 @@
     "tooltip.lost_lore.shadowium_z.tooltip": "§7Z-Crystal associated with the Shadow type and allows Pokémon to upgrade their Shadow-type moves to Z-Moves§r",
     "tooltip.lost_lore.slowbrogonite.tooltip": "§7Allows Galarian Slowbro to Mega Evolve into Galarian Mega Slowbro§r",
     "tooltip.lost_lore.time_gear.tooltip": "§7When resonating with Dialga, it unshackles its Primal instincts§r",
+    "tooltip.lost_lore.typing_ball": "5× catch rate on letter shaped Pokémon",
     "tooltip.lost_lore.water_shuriken.tooltip": "§7A rare shuriken that allows you to change the appearance of Greninja§r"
   }

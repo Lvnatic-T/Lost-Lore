@@ -11,22 +11,21 @@ import net.neoforged.neoforge.event.BuildCreativeModeTabContentsEvent;
 public final class LostLoreCreativeTabItems {
 
     private static final ResourceLocation MEWTWO_BALL =
-            ResourceLocation.fromNamespaceAndPath(
-                    LostLore.MOD_ID,
-                    "mewtwo_ball"
-            );
+            ResourceLocation.fromNamespaceAndPath(LostLore.MOD_ID, "mewtwo_ball");
+
+    private static final ResourceLocation TYPING_BALL =
+            ResourceLocation.fromNamespaceAndPath(LostLore.MOD_ID, "typing_ball");
 
     private LostLoreCreativeTabItems() {}
 
     @SubscribeEvent
     public static void onBuildCreativeTab(BuildCreativeModeTabContentsEvent event) {
-
         if (event.getTabKey().equals(LLTabs.MAIN_TAB.getKey())) {
-
-            Item mewtwoBall =
-                    BuiltInRegistries.ITEM.get(MEWTWO_BALL);
+            Item mewtwoBall = BuiltInRegistries.ITEM.get(MEWTWO_BALL);
+            Item typingBall = BuiltInRegistries.ITEM.get(TYPING_BALL);
 
             event.accept(mewtwoBall);
+            event.accept(typingBall);
         }
     }
 }

@@ -1,0 +1,13 @@
+{
+  "pokeball": "lost_lore:mewtwo_ball",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "layers": [],
+      "model": "cobblemon:poke_ball.geo",
+      "poser": "cobblemon:beast_ball",
+      "texture": "lost_lore:textures/item/models/mewtwo_ball.png"
+    }
+  ]
+}

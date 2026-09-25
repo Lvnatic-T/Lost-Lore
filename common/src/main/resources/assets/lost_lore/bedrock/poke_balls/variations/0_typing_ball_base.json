@@ -1,0 +1,13 @@
+{
+  "pokeball": "lost_lore:typing_ball",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "layers": [],
+      "model": "cobblemon:poke_ball.geo",
+      "poser": "cobblemon:poke_ball",
+      "texture": "lost_lore:textures/item/models/typing_ball.png"
+    }
+  ]
+}

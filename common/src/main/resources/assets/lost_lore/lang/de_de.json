@@ -29,6 +29,7 @@
     "item.lost_lore.shadowium_z": "Cryptonium-Z",
     "item.lost_lore.slowbrogonite": "Lahmusgonit",
     "item.lost_lore.time_gear": "§5Zeitrad§r",
+    "item.lost_lore.typing_ball": "Tipp-Ball",
     "item.lost_lore.water_shuriken": "§5Wasser Shuriken§r",
 
     "tooltip.lost_lore.light_of_life.tooltip": "§7Ein Fragment, das einst von der Ultimativen Waffe freigesetzt wurde. Es reagiert nur auf Ewigblütler-Blumen§r",
@@ -44,7 +45,7 @@
     "tooltip.lost_lore.dream_catcher.tooltip": "§7Ein Gegenstand, der mit Traunmagil in Verbindung steht und es ihnen ermöglicht, die Kraft der Träume zu nutzen um sich mit Rayquaza zu fusionieren§r",
     "tooltip.lost_lore.green_scarf.tooltip": "§7Ein Schal der üblicherweise von Mitgliedern des Mystery Dungeon Teams getragen wird§r",
     "tooltip.lost_lore.magical_music_sheet.tooltip": "§7Ein magisches Notenblatt, dass das Aussehen von Meloetta verändert§r",
-    "tooltip.lost_lore.mewtwo_ball": "2× Fangquote, überspringt die aktuellen-KP berechnung",
+    "tooltip.lost_lore.mewtwo_ball": "Die Fangquote ist unabhängig von den verleibenden KP des Ziels",
     "tooltip.lost_lore.mewtwonite_a.tooltip": "§7Dieser Mega-Stein ermöglicht es Gerüsteten Mewtu sich mega-zuentwicheln§r",
     "tooltip.lost_lore.pledge_fragment.tooltip": "§7A piece of a rock where pledges are made. It has a strange effect on Keldeo§r",
     "tooltip.lost_lore.project_star_kit.tooltip": "§7Eine Box voll mit modifikationen für Knattatox§r",
@@ -57,5 +58,6 @@
     "tooltip.lost_lore.shadowium_z.tooltip": "§7Z-Kristall, der mit dem Crypto-Typen verbunden ist und erlaubt es Pokémon ihre Crypto Attacken in Z-Attacken aufzuwerten§r",
     "tooltip.lost_lore.slowbrogonite.tooltip": "§7Erlaubt es Galar-Lahmus zu Galar Mega Lahmus mega-zuentwickeln§r",
     "tooltip.lost_lore.time_gear.tooltip": "§7Entfesselt Dialgas Urinstinkte wenn es mit ihm in Resonanz tritt§r",
+    "tooltip.lost_lore.typing_ball": "5× Fangrate auf Pokemon in Buchstaben Form",
     "tooltip.lost_lore.water_shuriken.tooltip": "§7Ein seltener Shuriken, der das Aussehen von Quajutsu verändert§r"
   }
