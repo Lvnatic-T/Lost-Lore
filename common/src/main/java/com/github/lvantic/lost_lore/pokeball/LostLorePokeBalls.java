@@ -23,7 +23,7 @@ public final class LostLorePokeBalls {
                 ),
                 new MewtwoBallModifier(),
                 0.8F,
-                1.25F,
+                1.55F,
                 false
         );
         TYPING_BALL = LostLorePokeBallHelper.register(
