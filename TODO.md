@@ -1,17 +1,15 @@
 # To-do List:
 ## For next update:
 - recolor shadow gem
-- Add picture of Ange on Modrinth
+- Add picture of Ange on modrinth
+- add missing recipes on modrinth
 - Fix Poser for Ange (Portrait & Profile)
-- Fix Venusaur clone riding?
-- implement ball assets
 - add more balls?
+- Radiating Zygarde Core
 - Remake all mega stones - thanks sanji
-
-
-## Mega Armored Mewtwo
-- Maybe think of another ability or a custom one
-- Review stats
+- Charizard Y red eyes
+- soul leach trapping broken?
+- test different throwing powers and water drag
 
 
 ## Pokémon additions:

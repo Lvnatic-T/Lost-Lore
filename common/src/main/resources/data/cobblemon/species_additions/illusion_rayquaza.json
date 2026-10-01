@@ -15,16 +15,6 @@
     	"special_defence": 105,
     	"speed": 105
       },
-	  "behaviour": {
-	  	"moving": {
-	  	  "walk": {
-	  	  	"canWalk": true
-	  	  },
-	  	  "fly": {
-	  	  	"canFly": true
-	  	  }
-	  	}
-	  },
 	  "moves": [
 		"1:twister",
 		"1:scaryface",
