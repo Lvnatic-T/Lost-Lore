@@ -39,7 +39,7 @@
   "depends": {
     "minecraft": "~1.21.1",
     "java": ">=21",
-    "cobblemon": ">=1.8.0",
+    "cobblemon": ">=1.8.2",
     "mega_showdown": ">=1.2.0+1.8.1+1.21.1-release"
   },
   "recommends": {},
