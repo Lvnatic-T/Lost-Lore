@@ -4,25 +4,23 @@
   "variations": [
     {
       "aspects": ["cosmetic_item-red_scarf"],
-      "poser": "cobblemon:riolu_atm",
-      "model": "cobblemon:riolupmd.geo",
-      "texture": "cobblemon:textures/pokemon/0447_riolu/riolupmd.png",
-      "layers": []
-    },
-    {
-      "aspects": ["cosmetic_item-red_scarf","shiny"],
-      "texture": "cobblemon:textures/pokemon/0447_riolu/riolupmd_shiny.png"
+      "poser": "cobblemon:riolu",
+      "model": "cobblemon:riolu_scarf.geo",
+      "layers": [
+        {
+        "texture": "cobblemon:textures/pokemon/0447_riolu/riolu_pmd.png"
+        }
+      ]
     },
     {
       "aspects": ["cosmetic_item-green_scarf"],
-      "poser": "cobblemon:riolu_atm",
-      "model": "cobblemon:riolupsmd.geo",
-      "texture": "cobblemon:textures/pokemon/0447_riolu/riolupsmd.png",
-      "layers": []
-    },
-    {
-      "aspects": ["cosmetic_item-green_scarf","shiny"],
-      "texture": "cobblemon:textures/pokemon/0447_riolu/riolupsmd_shiny.png"
+      "poser": "cobblemon:riolu",
+      "model": "cobblemon:riolu_scarf.geo",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0447_riolu/riolu_psmd.png"
+        }
+      ]
     }
   ]
 }

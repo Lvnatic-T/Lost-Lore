@@ -13,5 +13,6 @@
 - It has a 5x catch rate boost on unown and 1x against every other Pokémon
 
 ## Smaller Additions, updates & fixes:
+- Removed old Riolu model & adapted scarfs to the new 1.8.2 one
 - Fixed riding _(for Clone Starters, Virus Groudon, Illusionary Rayquaza)_
 - Fixed an issue with the Crystal & Shadow types appearing twice in the TM machine GUI
