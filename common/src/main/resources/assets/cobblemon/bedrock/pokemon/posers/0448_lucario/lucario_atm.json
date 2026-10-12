@@ -4,10 +4,10 @@
   "portraitTranslation": [-0.2, 2.8, 0],
   "profileScale": 0.52,
   "profileTranslation": [0, 1.05, 0],
-"animations": {
-   "faint": "q.bedrock_primary('lucario_atm', 'faint', q.curve('one'))",
-   "cry": "q.bedrock_stateful('lucario_atm', 'cry')"
- },
+  "animations": {
+    "faint": "q.bedrock_primary('lucario_atm', 'faint', q.curve('one'))",
+    "cry": "q.bedrock_stateful('lucario_atm', 'cry')"
+  },
   "poses": {
     "standing": {
       "poseName": "standing",
@@ -46,8 +46,8 @@
           "animations": ["bedrock(lucario_atm, blink)"]
         }
       ]
-    },    
-      "floating": {
+    },
+    "floating": {
       "poseName": "floating",
       "transformTicks": 10,
       "poseTypes": [ "FLOAT" ],
@@ -85,22 +85,22 @@
       "poseTypes": ["SLEEP"],
       "animations": [ "bedrock(lucario_atm, sleep)" ]
     },
-      "battle-idle": {
-        "poseName": "battle-idle",
-        "transformTicks": 10,
-        "poseTypes": ["STAND"],
-        "isBattle": true,
-        "animations": [
-          "look",
-          "bedrock(lucario_atm, battle_idle)"
-        ],
+    "battle-idle": {
+      "poseName": "battle-idle",
+      "transformTicks": 10,
+      "poseTypes": ["STAND"],
+      "isBattle": true,
+      "animations": [
+        "look",
+        "bedrock(lucario_atm, battle_idle)"
+      ],
       "quirks": [
         {
           "name": "blink",
           "animations": ["bedrock(lucario_atm, blink)"]
         }
       ]
-      },
+    },
     "shoulder_left": {
       "poseName": "shoulder_left",
       "transformTicks": 10,

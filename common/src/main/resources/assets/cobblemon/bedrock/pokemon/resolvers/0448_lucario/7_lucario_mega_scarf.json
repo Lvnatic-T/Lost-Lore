@@ -1,0 +1,58 @@
+{
+  "species": "cobblemon:lucario",
+  "order": 7,
+  "variations": [
+    {
+      "aspects": ["mega"],
+      "poser": "cobblemon:lucario_mega",
+      "model": "cobblemon:lucario_mega.geo",
+      "texture": "cobblemon:textures/pokemon/0448_lucario/lucario_mega.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0448_lucario/lucario_mega_emissive.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": ["mega", "shiny"],
+      "texture": "cobblemon:textures/pokemon/0448_lucario/lucario_mega_shiny.png"
+    },
+    {
+      "aspects": ["mega","cosmetic_item-red_scarf"],
+      "poser": "cobblemon:lucario_mega",
+      "model": "cobblemon:lucario_mega_scarf.geo",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0448_lucario/lucario_mega_emissive.png",
+          "emissive": true,
+          "translucent": true
+        },
+        {
+          "name": "scarf",
+          "texture": "cobblemon:textures/pokemon/0448_lucario/lucario_mega_pmd.png"
+        }
+      ]
+    },
+    {
+      "aspects": ["mega","cosmetic_item-green_scarf"],
+      "poser": "cobblemon:lucario_mega",
+      "model": "cobblemon:lucario_mega_scarf.geo",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0448_lucario/lucario_mega_emissive.png",
+          "emissive": true,
+          "translucent": true
+        },
+        {
+          "name": "scarf",
+          "texture": "cobblemon:textures/pokemon/0448_lucario/lucario_mega_psmd.png"
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "species": "cobblemon:lucario",
-  "order": 2,
+  "order": 6,
   "variations": [
     {
       "aspects": ["cafe-costume"],
@@ -14,6 +14,7 @@
     },
     {
       "aspects": ["captain-costume"],
+      "poser": "cobblemon:lucario_atm",
       "model": "cobblemon:lucariocaptain.geo",
       "texture": "cobblemon:textures/pokemon/0448_lucario/lucariocaptain.png"
     },
@@ -23,6 +24,7 @@
     },
     {
       "aspects": ["chef-costume"],
+      "poser": "cobblemon:lucario_atm",
       "model": "cobblemon:lucariochef.geo",
       "texture": "cobblemon:textures/pokemon/0448_lucario/lucariochef.png"
     },
@@ -32,6 +34,7 @@
     },
     {
       "aspects": ["concert-costume"],
+      "poser": "cobblemon:lucario_atm",
       "model": "cobblemon:lucarioconcert.geo",
       "texture": "cobblemon:textures/pokemon/0448_lucario/lucarioconcert.png"
     },
@@ -41,6 +44,7 @@
     },
     {
       "aspects": ["holiday-costume"],
+      "poser": "cobblemon:lucario_atm",
       "model": "cobblemon:lucarioholiday.geo",
       "texture": "cobblemon:textures/pokemon/0448_lucario/lucarioholiday.png"
     },
@@ -50,6 +54,7 @@
     },
     {
       "aspects": ["martial_arts-costume"],
+      "poser": "cobblemon:lucario_atm",
       "model": "cobblemon:lucariomartialarts.geo",
       "texture": "cobblemon:textures/pokemon/0448_lucario/lucariomartialarts.png"
     },
@@ -59,6 +64,7 @@
     },
     {
       "aspects": ["costume_party-costume"],
+      "poser": "cobblemon:lucario_atm",
       "model": "cobblemon:lucariocostumeparty.geo",
       "texture": "cobblemon:textures/pokemon/0448_lucario/lucariocostumeparty.png"
     },
@@ -68,6 +74,7 @@
     },
     {
       "aspects": ["ruins-costume"],
+      "poser": "cobblemon:lucario_atm",
       "model": "cobblemon:lucarioruins.geo",
       "texture": "cobblemon:textures/pokemon/0448_lucario/lucarioruins.png"
     },
@@ -77,6 +84,7 @@
     },
     {
       "aspects": ["space-costume"],
+      "poser": "cobblemon:lucario_atm",
       "model": "cobblemon:lucariospace.geo",
       "texture": "cobblemon:textures/pokemon/0448_lucario/lucariospace.png"
     },
