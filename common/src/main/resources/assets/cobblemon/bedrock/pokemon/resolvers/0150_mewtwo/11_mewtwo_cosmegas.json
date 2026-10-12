@@ -1,6 +1,6 @@
 {
   "species": "cobblemon:mewtwo",
-  "order": 11,
+  "order": 10,
   "variations": [
     {
       "aspects": ["cosmetic_item-mega_x", "shadows"],

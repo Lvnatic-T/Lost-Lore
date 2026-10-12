@@ -1,16 +1,22 @@
 {
   "species": "cobblemon:venusaur",
-  "order": 11,
+  "order": 10,
   "variations": [
     {
-      "aspects": ["cosmetic_item-mega", "clone"
+      "aspects": [
+        "cosmetic_item-mega",
+        "clone"
       ],
       "model": "cobblemon:venusaurmega.geo",
       "poser": "cobblemon:venusaurmega",
       "texture": "cobblemon:textures/pokemon/0003_venusaur/venusaur_clone_mega.png"
     },
     {
-      "aspects": ["cosmetic_item-mega", "shiny", "clone"],
+      "aspects": [
+        "cosmetic_item-mega",
+        "shiny",
+        "clone"
+      ],
       "texture": "cobblemon:textures/pokemon/0003_venusaur/venusaur_clone_mega_shiny.png"
     }
   ]
