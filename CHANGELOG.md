@@ -12,6 +12,7 @@
 - It has a 5x catch rate boost on unown and 1x against every other Pokémon
 - Was moreso added as a gimmick to test out what I can do with custom Pokéballs, might add more in the future!
 ## Smaller Additions, updates & fixes:
+- Added support to my upcoming mod [ZA Mega Shards](https://modrinth.com/mod/za-mega-shards)
 - Removed now redundant size tweaks for Water Shuriken Greninja
 - Removed all old Riolu assets & adapted scarfs to the new 1.8.2 one
 - Updated all Mega Stones to match MSDs new ones _thanks to Sherbet!_
