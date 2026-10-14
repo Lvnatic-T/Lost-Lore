@@ -6,10 +6,8 @@
 - Fix Poser for Ange (Portrait & Profile)
 - add more balls?
 - Radiating Zygarde Core
-- Remake all mega stones - thanks sanji
 - Charizard Y red eyes
 - soul leach trapping broken?
-- test different throwing powers and water drag
 
 
 ## Pokémon additions:
