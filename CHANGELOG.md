@@ -10,7 +10,7 @@
 ### Typing Ball
 - This ball is from Pokémon: Typing Adventure
 - It has a 5x catch rate boost on unown and 1x against every other Pokémon
-- Was moreso added as a gimmick to test out what I can do with custom Pokéballs, might add more in the future!
+- Was added as a gimmick to test out what I can do with custom Pokéballs, might add more in the future!
 ## Smaller Additions, updates & fixes:
 - Added support to my upcoming mod [ZA Mega Shards](https://modrinth.com/mod/za-mega-shards)
 - Removed now redundant size tweaks for Water Shuriken Greninja
@@ -19,3 +19,5 @@
 - Fixed riding for Clone Starters & their forms, Virus Groudon and Illusionary Rayquaza
 - Fixed a minor issue with the Crystal & Shadow types appearing twice in the TM machine GUI
 - Removed old Lucario Base & Mega models & adapted scarfs to the new 1.8.2 one _(Costumes will use the old one for now)_
+
+The update released way sooner than expected due to a breaking change in Cobblemon 1.8.2 so a fair bit of the planned features, polish & updates I planned didn't make it into this release!
