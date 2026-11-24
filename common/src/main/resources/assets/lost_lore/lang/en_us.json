@@ -3,6 +3,7 @@
 
     "item.lost_lore.light_of_life": "§dLight of Life§r",
     "item.lost_lore.ancient_light_ball": "§dAncient Light Ball§r",
+    "item.lost_lore.ancient_ball": "§dAncient Poké Ball§r",
     "item.lost_lore.binding_armor": "§dBinding Armor§r",
     "item.lost_lore.corrupted_wish": "§dCorrupted Wish§r",
     "item.lost_lore.costume_box_incineroar": "§dCostume Box (Incineroar)§r",
@@ -34,6 +35,7 @@
 
     "tooltip.lost_lore.light_of_life.tooltip": "§7A fragment once unleashed by the Ultimate Weapon. It resonates only with Eternal Flowers§r",
     "tooltip.lost_lore.ancient_light_ball.tooltip": "§7A rare relic from a distant time - it has a strange effect on Pichu§r",
+    "tooltip.lost_lore.ancient_ball": "3× with Terapagos in your party, 3× on Terastallized Pokémon, 5× if both apply",
     "tooltip.lost_lore.binding_armor.tooltip": "§7Focuses and restrains Mewtwo's Powers by covering him with a Binding Armor Set§r",
     "tooltip.lost_lore.corrupted_wish.tooltip": "§7A wish tag granted by Jirachi, tainted by evil intentions - it turns Groudon into a Virus like Creature§r",
     "tooltip.lost_lore.costume_box_incineroar.tooltip": "§7A Box full of Incineroar's favorite costumes§r",

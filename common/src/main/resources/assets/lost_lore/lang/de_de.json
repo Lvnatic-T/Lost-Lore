@@ -3,6 +3,7 @@
 
     "item.lost_lore.light_of_life": "§5Licht des Lebens§r",
     "item.lost_lore.ancient_light_ball": "§Uralter Kugelblitz§r",
+    "item.lost_lore.ancient_ball": "§dAntiker Pokéball§r",
     "item.lost_lore.binding_armor": "§5Bindende Rüstung§r",
     "item.lost_lore.corrupted_wish": "§5Verdorbener Wunsch§r",
     "item.lost_lore.costume_box_incineroar": "§Kostüm Box (Fuegro)§r",
@@ -34,6 +35,7 @@
 
     "tooltip.lost_lore.light_of_life.tooltip": "§7Ein Fragment, das einst von der Ultimativen Waffe freigesetzt wurde. Es reagiert nur auf Ewigblütler-Blumen§r",
     "tooltip.lost_lore.ancient_light_ball.tooltip": "§7Ein seltenes Relikt aus längst vergangenen Zeiten – es hat eine seltsame Wirkung auf Pichu§r",
+    "tooltip.lost_lore.ancient_ball": "3× mit Terapagos im Team, 3× bei terakristallisierten Pokémon, 5× wenn beides zutrifft",
     "tooltip.lost_lore.binding_armor.tooltip": "§7Konzentriert und zügelt Mewtus Kräfte, indem es ihn mit einer bindenden Rüstung bedeckt§r",
     "tooltip.lost_lore.corrupted_wish.tooltip": "§7Ein von Jirachi gewährter Wunschanhänger, der von bösen Absichten befleckt ist – er verwandelt Groudon in eine virusähnliche Kreatur§r",
     "tooltip.lost_lore.costume_box_incineroar.tooltip": "§7Eine Box gefüllt mit Fuegro's Lieblingskostümen§r",

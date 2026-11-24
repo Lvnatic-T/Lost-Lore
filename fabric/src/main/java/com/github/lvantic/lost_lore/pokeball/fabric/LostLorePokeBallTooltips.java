@@ -15,6 +15,9 @@ public final class LostLorePokeBallTooltips {
     private static final ResourceLocation TYPING_BALL =
             ResourceLocation.fromNamespaceAndPath(LostLore.MOD_ID, "typing_ball");
 
+    private static final ResourceLocation ANCIENT_BALL =
+            ResourceLocation.fromNamespaceAndPath(LostLore.MOD_ID, "ancient_ball");
+
     private LostLorePokeBallTooltips() {}
 
     public static void register() {
@@ -31,6 +34,13 @@ public final class LostLorePokeBallTooltips {
             if (TYPING_BALL.equals(itemId)) {
                 lines.add(
                         Component.translatable("tooltip.lost_lore.typing_ball")
+                                .withStyle(ChatFormatting.GRAY)
+                );
+            }
+
+            if (ANCIENT_BALL.equals(itemId)) {
+                lines.add(
+                        Component.translatable("tooltip.lost_lore.ancient_ball")
                                 .withStyle(ChatFormatting.GRAY)
                 );
             }

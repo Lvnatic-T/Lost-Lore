@@ -15,15 +15,20 @@ public final class LostLoreCreativeTabItems {
     private static final ResourceLocation TYPING_BALL =
             ResourceLocation.fromNamespaceAndPath(LostLore.MOD_ID, "typing_ball");
 
+    private static final ResourceLocation ANCIENT_BALL =
+            ResourceLocation.fromNamespaceAndPath(LostLore.MOD_ID, "ancient_ball");
+
     private LostLoreCreativeTabItems() {}
 
     public static void register() {
         ItemGroupEvents.modifyEntriesEvent(LLTabs.MAIN_TAB.getKey()).register(entries -> {
             Item mewtwoBall = BuiltInRegistries.ITEM.get(MEWTWO_BALL);
             Item typingBall = BuiltInRegistries.ITEM.get(TYPING_BALL);
+            Item ancientBall = BuiltInRegistries.ITEM.get(ANCIENT_BALL);
 
             entries.accept(mewtwoBall);
             entries.accept(typingBall);
+            entries.accept(ancientBall);
         });
     }
 }
